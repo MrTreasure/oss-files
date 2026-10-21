@@ -1,0 +1,706 @@
+{
+  "projection": {
+    "revision": 2,
+    "imageOrigin": "top-left",
+    "worldZDirection": "up",
+    "pointFormula": "u=(worldX-minX)/(maxX-minX); v=(maxZ-worldZ)/(maxZ-minZ)",
+    "contourSvgTransform": "matrix(1 0 0 -1 0 1000)",
+    "thumbnailDerivation": "Original DOM layout association; reprojected native marks over original base texture, WebP quality 90",
+    "evidence": "User supplied in-game comparison: American Desert and Berlin, 2026-10-21"
+  },
+  "thumbnails": [
+    {
+      "mapId": "avg_abandoned_factory",
+      "layoutId": "abandoned_factory_dom",
+      "repositoryPath": "war-thunder/ground-maps/v1/e167e777167aa897be045be2.webp",
+      "sha256": "e167e777167aa897be045be2879eb578f28ebe2358ff116cbc66348447f277d4",
+      "sourceDomSha256": "5b5ba08ef651b77cb9349686e6cdbd5aa86d2f6e1c452a1a563df7e56f1e9deb",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "mapId": "avg_abandoned_town",
+      "layoutId": "abandoned_town_dom",
+      "repositoryPath": "war-thunder/ground-maps/v1/363f834bafaf3383bd2382b9.webp",
+      "sha256": "363f834bafaf3383bd2382b9862af894395b08cbcbe8368828f529526170ee88",
+      "sourceDomSha256": "d1d4db96631af1d863db86f30a32b51292b3d6df4bc6f7272108a9149127a815",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "mapId": "avg_africa_desert",
+      "layoutId": "africa_desert_dom",
+      "repositoryPath": "war-thunder/ground-maps/v1/1bef91f76279c5db3cfcbc6b.webp",
+      "sha256": "1bef91f76279c5db3cfcbc6b8b3305cc663ef3eacf6698af3b96706eaf390e30",
+      "sourceDomSha256": "75a279bb11eff2a8140236c31fe58096cc1d693820ef0a59fc4fbdcb36c1d9fe",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "mapId": "avg_africa_desert",
+      "layoutId": "africa_desert_02_dom",
+      "repositoryPath": "war-thunder/ground-maps/v1/c52e2b2a0ab355e1dd0fe87a.webp",
+      "sha256": "c52e2b2a0ab355e1dd0fe87ae0f8e4fe73b5c285aeb14230feb73c88375a95f7",
+      "sourceDomSha256": "14d39c4da60f08dbc6b3bef8e8a94029cd4f466edba6e1966559cbaf9b4d2e93",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "mapId": "avg_alaska_town",
+      "layoutId": "alaska_town_dom",
+      "repositoryPath": "war-thunder/ground-maps/v1/9084bc23f539f7d7085d123a.webp",
+      "sha256": "9084bc23f539f7d7085d123a7db9b31fe4ab4ceb274bed17259ee0ed606256b0",
+      "sourceDomSha256": "d297dd4435dd2d4c4e9cfe648b356e87addc57c60ee1f26aab3b26fca3c2bdb9",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "mapId": "avg_snow_alps",
+      "layoutId": "alps_dom",
+      "repositoryPath": "war-thunder/ground-maps/v1/6bbb70cbf35cee0d718900e1.webp",
+      "sha256": "6bbb70cbf35cee0d718900e186d5b4f10c08b909b3f5375c27969a880a4fe6a1",
+      "sourceDomSha256": "1e06d1c19c4d65f359d7333b370915c698d33a4a1b745665a9bef444551bb6a7",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "mapId": "avg_american_valley",
+      "layoutId": "american_valley_dom",
+      "repositoryPath": "war-thunder/ground-maps/v1/95db952b99eaefffd0af8a7f.webp",
+      "sha256": "95db952b99eaefffd0af8a7f3063334dcfeef4e878461dfa582c7c1089a18a79",
+      "sourceDomSha256": "19b035c76ccaf3a289198daf8c6013191f58223a9d767d02f0194d705711af07",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "mapId": "avg_aral_sea",
+      "layoutId": "aral_sea_dom",
+      "repositoryPath": "war-thunder/ground-maps/v1/3f1f9eab87daf8a0516c950f.webp",
+      "sha256": "3f1f9eab87daf8a0516c950fc5b075e28ad712b15aa0eb526afa40276e062826",
+      "sourceDomSha256": "a80fa3f950dfd94c2d4cf7e1e3969dd5f30285e849f96f68ec2622b795125ac6",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "mapId": "avg_arctic",
+      "layoutId": "arctic_dom",
+      "repositoryPath": "war-thunder/ground-maps/v1/33c08732d662e5c3794eea14.webp",
+      "sha256": "33c08732d662e5c3794eea145339a0a25cb4c0f4feaedf87d5d2b11b5af4dd32",
+      "sourceDomSha256": "1a020859d9184a81ff8fb2183cc3e03e7bf9443f9d0bcb9d2a7e195350961e21",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "mapId": "avg_arctic",
+      "layoutId": "arctic_02_dom",
+      "repositoryPath": "war-thunder/ground-maps/v1/ca82526eecbb10253b96ca95.webp",
+      "sha256": "ca82526eecbb10253b96ca9551f7b0eafeb3dac585a9220b7695aeb21103f640",
+      "sourceDomSha256": "1cb6bcd7ab5152aabf04059d2eb1088a695867062400fd287dbf6b0a609948b2",
+      "width": 512,
+      "height": 479
+    },
+    {
+      "mapId": "avg_ardennes",
+      "layoutId": "ardennes_dom",
+      "repositoryPath": "war-thunder/ground-maps/v1/df94226145fab533bc9b9a9b.webp",
+      "sha256": "df94226145fab533bc9b9a9b8a4f3e613674210c8ea695edd15e001aa9e76934",
+      "sourceDomSha256": "7c9ed927cbf5e748695fe065d8c0cf2f43a9b1fc7a81b89ad57d594020bdb1b3",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "mapId": "avg_ardennes",
+      "layoutId": "ardennes_02_dom",
+      "repositoryPath": "war-thunder/ground-maps/v1/97799672e52c97087a8f9b3b.webp",
+      "sha256": "97799672e52c97087a8f9b3b33177896889b218e6cd7208baf1bb13e82609578",
+      "sourceDomSha256": "81d8c01cef74c3e93ceac6487f90f402a634cfd1016391790c716503f15482cd",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "mapId": "avg_ardennes_snow",
+      "layoutId": "ardennes_snow_dom",
+      "repositoryPath": "war-thunder/ground-maps/v1/982942fc8001636f7738a215.webp",
+      "sha256": "982942fc8001636f7738a2154ed7800647fd69b754aa2b410439060bb65ff79f",
+      "sourceDomSha256": "733da2931ffd2bb0077b209242ba80789e6445777f7e15919ab74cc6721bc276",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "mapId": "avg_ardennes_snow",
+      "layoutId": "ardennes_snow_02_dom",
+      "repositoryPath": "war-thunder/ground-maps/v1/cd3dd54f7513c8df09f13b71.webp",
+      "sha256": "cd3dd54f7513c8df09f13b718bb00e5364de625b591eee0594c273e5e9cab8be",
+      "sourceDomSha256": "2ecb88057b01b96c1b3a8088ced57b8e03bc4239f210f3eed58cbbae03e4307f",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "mapId": "avg_berlin",
+      "layoutId": "berlin_dom",
+      "repositoryPath": "war-thunder/ground-maps/v1/0d12fef57e295f5787caa70a.webp",
+      "sha256": "0d12fef57e295f5787caa70acfc0570e6818c5cf5d8cb2d86448c2a52fd98ed3",
+      "sourceDomSha256": "9984ddfdd2af00817887ef6fb433150c7bb6beb88120db93fded8ea8068bd253",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "mapId": "avg_breslau",
+      "layoutId": "breslau_dom",
+      "repositoryPath": "war-thunder/ground-maps/v1/2cf87aed6cdbe43729f00d15.webp",
+      "sha256": "2cf87aed6cdbe43729f00d15754aa2969b08e9ea9100e81d54dc2ae7e7e93fc2",
+      "sourceDomSha256": "ea3816939acaa434d3f56a5cf33be835519397c1b9735fed0a4d6cb008f67a56",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "mapId": "avg_container_port",
+      "layoutId": "container_port_dom",
+      "repositoryPath": "war-thunder/ground-maps/v1/1b71d9a1ae200b5a448e6096.webp",
+      "sha256": "1b71d9a1ae200b5a448e6096842d6d8f421505cb7fa90948483455582bc6d570",
+      "sourceDomSha256": "124cf716dfe648e49126e87f782cf926950e42d8c6929dd2a55310f100c267b4",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "mapId": "avg_eastern_europe",
+      "layoutId": "eastern_europe_dom",
+      "repositoryPath": "war-thunder/ground-maps/v1/2b51a088ab59d1e0aa381e64.webp",
+      "sha256": "2b51a088ab59d1e0aa381e644176cf118054e9e8406f1d5865c115c8c45f6ff4",
+      "sourceDomSha256": "f9cc06ab979c72c91b7ebcd0a7710e1c1e77558825252022b49724fe498831ce",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "mapId": "avg_eastern_europe",
+      "layoutId": "european_province_dom",
+      "repositoryPath": "war-thunder/ground-maps/v1/4adb84613bb57a84cabdf29a.webp",
+      "sha256": "4adb84613bb57a84cabdf29a5e38ab1bc12d34ac0bfb0daab4829b0acc05791e",
+      "sourceDomSha256": "e93b8e1a3ae86c31e0f1e1b71ce2d0f4d177810684d12c418bbe468501aafe27",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "mapId": "avg_eastern_europe",
+      "layoutId": "eastern_europe_02_dom",
+      "repositoryPath": "war-thunder/ground-maps/v1/a69961faa7c60b353a6ea61c.webp",
+      "sha256": "a69961faa7c60b353a6ea61c71324a4b10378cefad1b9b50483b48a305d958da",
+      "sourceDomSha256": "ae6a623888c9194f690e49b9e1bbcb36629bea3be17cf489af5cb8a4470704c4",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "mapId": "avg_falklands",
+      "layoutId": "falklands_dom",
+      "repositoryPath": "war-thunder/ground-maps/v1/996d0ddcf2e8ce08a189c6ce.webp",
+      "sha256": "996d0ddcf2e8ce08a189c6cec81d9215551cc3356f58a3810d9b534edc24181a",
+      "sourceDomSha256": "05ead5e49abf5278402fd25a501434659e48f9101648141c7860089bffe0242a",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "mapId": "avg_finland",
+      "layoutId": "finland_dom",
+      "repositoryPath": "war-thunder/ground-maps/v1/d45ded55269ced2bc02ec35d.webp",
+      "sha256": "d45ded55269ced2bc02ec35da3c0ea8bda81fd2639aa99ff2fbc022130fa100c",
+      "sourceDomSha256": "7defdd8b0ec50bb7b7fa7eceac9c4cf99a095ec1a32e6fddb9aecd0ed984406a",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "mapId": "avg_european_fortress",
+      "layoutId": "fortress_dom",
+      "repositoryPath": "war-thunder/ground-maps/v1/b42b6e20fbbd401ea39eb346.webp",
+      "sha256": "b42b6e20fbbd401ea39eb3461af724f7dd4df05c722e5f46dc51e7c623ee2d0d",
+      "sourceDomSha256": "5f37f292420ad38c80bca6270cd70ef0a97ee34bcd4e5e067b0dee1f6113aa19",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "mapId": "avg_fulda",
+      "layoutId": "fulda_dom",
+      "repositoryPath": "war-thunder/ground-maps/v1/45ea342002b4366b6b4f11ef.webp",
+      "sha256": "45ea342002b4366b6b4f11ef745a771145e2c979440b59ac304eaad6eb5ce671",
+      "sourceDomSha256": "3e46f939c9eb029f27be4356d5913a4b62cff65edf5adf28a62a1b1dcce52b79",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "mapId": "avg_fulda",
+      "layoutId": "fulda_02_dom",
+      "repositoryPath": "war-thunder/ground-maps/v1/1c709c0bf9bdaccd6d927ae5.webp",
+      "sha256": "1c709c0bf9bdaccd6d927ae5a86059527f8e4bd166f4ada983c78297ac2d04e5",
+      "sourceDomSha256": "7fc7e003551fd5ba46cec87664557932952753772b0f0b22d65b0f489245a381",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "mapId": "avg_greece",
+      "layoutId": "greece_dom",
+      "repositoryPath": "war-thunder/ground-maps/v1/bc37ec1c38b64c035a0ef2b3.webp",
+      "sha256": "bc37ec1c38b64c035a0ef2b359543955987d7d7c1956e41de916dfcec61103a8",
+      "sourceDomSha256": "d4a4d0cbbf7c829a42117c61006c5ae1b67b605f22bbab49e99e55a05b05d502",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "mapId": "avg_guadalcanal",
+      "layoutId": "guadalcanal_dom",
+      "repositoryPath": "war-thunder/ground-maps/v1/a7f3f239cae0308b33103081.webp",
+      "sha256": "a7f3f239cae0308b3310308183177b4dc2ed3e4c54037305d69c8724847ba03f",
+      "sourceDomSha256": "2b4f4904e1ebcf4694c20154e1be86c472a6661bc2502fc7b05ba788fc06b6c6",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "mapId": "avg_hurtgen",
+      "layoutId": "hurtgen_dom",
+      "repositoryPath": "war-thunder/ground-maps/v1/d647d961b264058250f527b2.webp",
+      "sha256": "d647d961b264058250f527b205efae167badc20edd5cda1344b31c15d7519e3f",
+      "sourceDomSha256": "4772b0900fd64176f63874c2c0b883f88c4ce046a9c03a10146b098373fb86f4",
+      "width": 512,
+      "height": 441
+    },
+    {
+      "mapId": "avg_hurtgen",
+      "layoutId": "hurtgen_02_dom",
+      "repositoryPath": "war-thunder/ground-maps/v1/045ea9d6cdb8faed74fcf3ef.webp",
+      "sha256": "045ea9d6cdb8faed74fcf3efae24f768adbf8fa16cb169c4f6486cc56cd79065",
+      "sourceDomSha256": "495ebdde000df9a2c41362455f4524194300d239ba2f95c89d0a864ab282a929",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "mapId": "avg_iberian_castle",
+      "layoutId": "iberian_castle_dom",
+      "repositoryPath": "war-thunder/ground-maps/v1/2cb5a1832906fc7e59fa3233.webp",
+      "sha256": "2cb5a1832906fc7e59fa3233ea3811d35e522799062a5a5cdfc2d48993746ebd",
+      "sourceDomSha256": "2302d62b1543686659bdfe78193c54db87611003740d6817e9ad421242d0456b",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "mapId": "avg_ireland",
+      "layoutId": "ireland_dom",
+      "repositoryPath": "war-thunder/ground-maps/v1/ad9d7492093392b813d5d00d.webp",
+      "sha256": "ad9d7492093392b813d5d00d3cbb5d916c5ff8981174d762d72f4a8e2de5296c",
+      "sourceDomSha256": "b4b9da11c4ab2eb26730e0ba5faf79799f7adb32dd457d55fd781d4922a5829f",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "mapId": "avg_israel",
+      "layoutId": "israel_dom",
+      "repositoryPath": "war-thunder/ground-maps/v1/a6a444d0155752b8b8549c1c.webp",
+      "sha256": "a6a444d0155752b8b8549c1cec6d7a0a78ac259058feca79e3869425531cda3a",
+      "sourceDomSha256": "a9ea8cc003b5186db94a5c6621b2bad03f851680aefb0e8f4ce8c0be8bd00743",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "mapId": "avg_japan",
+      "layoutId": "japan_dom",
+      "repositoryPath": "war-thunder/ground-maps/v1/486f8c6e08c0a06de2dd2d33.webp",
+      "sha256": "486f8c6e08c0a06de2dd2d33710f30522c456085dab224f48d4553d153ea271e",
+      "sourceDomSha256": "a7b9014679bea06db2ffc830cef29502871bf27b6d77fec395531e0e01f95ca6",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "mapId": "avg_karelia_forest_a",
+      "layoutId": "karelia_dom",
+      "repositoryPath": "war-thunder/ground-maps/v1/637b89f619ba80f487cbd953.webp",
+      "sha256": "637b89f619ba80f487cbd953aa408130f462e3db1d41c95e89557e3820458831",
+      "sourceDomSha256": "d769a01a57094ea04333dd75e56c89f3efe466912e1f0a3d1f25a30e2158c130",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "mapId": "avg_karpaty_passage",
+      "layoutId": "karpaty_dom",
+      "repositoryPath": "war-thunder/ground-maps/v1/6d1703aaf79625f04784571e.webp",
+      "sha256": "6d1703aaf79625f04784571e20ba07eb08ba76ac20ef29f0eddbac7f7a8459a0",
+      "sourceDomSha256": "a34460bab1eca1d533582c36061c5c588b9113e96c67a0417b7a868e548257c4",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "mapId": "avg_korea_lake",
+      "layoutId": "korea_dom",
+      "repositoryPath": "war-thunder/ground-maps/v1/c1eda7931bc1713738f73763.webp",
+      "sha256": "c1eda7931bc1713738f73763d1792c2fe3194555b691b27b36ee63bc12b7180c",
+      "sourceDomSha256": "ff06d28553ff14cef97a499f0cce8e4f47f5c64014e223e40b1fa87c371a2d8e",
+      "width": 410,
+      "height": 512
+    },
+    {
+      "mapId": "avg_krymsk",
+      "layoutId": "krymsk_dom",
+      "repositoryPath": "war-thunder/ground-maps/v1/8ec6967effe20a31c2f4106c.webp",
+      "sha256": "8ec6967effe20a31c2f4106c2f554bc6892848ebb6e2387ae377d41b9ac4d233",
+      "sourceDomSha256": "2d0f49c3ef24a58a076d427b97170b55efbda2db8ccc7b7eb59c48d40adf6e65",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "mapId": "avg_kursk_villages",
+      "layoutId": "kursk_villages_dom",
+      "repositoryPath": "war-thunder/ground-maps/v1/744a527d3c669e2c17289cbe.webp",
+      "sha256": "744a527d3c669e2c17289cbe7e23227954ccbc94827b55bad1a73d9ef063f3ff",
+      "sourceDomSha256": "ed280d95ab24d11aa5d2919b4fd31aa04615564e7e3e102c0bdf18511a3ace25",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "mapId": "avg_kursk_villages",
+      "layoutId": "kursk_villages_02_dom",
+      "repositoryPath": "war-thunder/ground-maps/v1/6cc9fd1ed3db143757c4df69.webp",
+      "sha256": "6cc9fd1ed3db143757c4df69268dbb4567d3693de9bfb964704377523dad3e7b",
+      "sourceDomSha256": "c11943fb2bf4d9ae060c8c7d1ad318cecb9f69e7550fc310a3145d2e9ea5ced6",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "mapId": "avg_lazzaro_italy_new_city",
+      "layoutId": "lazzaro_italy_new_city_dom",
+      "repositoryPath": "war-thunder/ground-maps/v1/7cf7f7f1565cbd8f85b148f4.webp",
+      "sha256": "7cf7f7f1565cbd8f85b148f4dcc847a332952592de520d1f6ab0dbfaa18a68ee",
+      "sourceDomSha256": "237cf5d46989293a26545128c7c0a5bc1c2f850f7857b71f5e8e661f56e37c33",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "mapId": "avg_syria",
+      "layoutId": "middle_east_dom",
+      "repositoryPath": "war-thunder/ground-maps/v1/9d916dc965d172b629bcb5b7.webp",
+      "sha256": "9d916dc965d172b629bcb5b7fd565dba421ee8053de3664692653d3f004c85aa",
+      "sourceDomSha256": "1ee7a1a8937d19b88c4dd395967cc1a67f7ea73423547391aaba7b29c6b4bac4",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "mapId": "avg_mozdok",
+      "layoutId": "mozdok_dom",
+      "repositoryPath": "war-thunder/ground-maps/v1/38b490a0d8a3d668e7e4a5d4.webp",
+      "sha256": "38b490a0d8a3d668e7e4a5d4b34db850d55309b48d1ce0f5f1060c491354b6f8",
+      "sourceDomSha256": "91f19867b761d19f049ad8dd25a6768ae99822a65ed0efd4c6d1efbee6856bda",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "mapId": "avg_mozdok",
+      "layoutId": "mozdok_02_dom",
+      "repositoryPath": "war-thunder/ground-maps/v1/a49b7e145909358b87906c1b.webp",
+      "sha256": "a49b7e145909358b87906c1bde815859b58ee0aea42413f6de77d5aa657f29f6",
+      "sourceDomSha256": "b457ca526e3de56a89d4df943c06923ee825697bbf13ac922dc1209c2dbf4a11",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "mapId": "avg_netherlands",
+      "layoutId": "netherlands_dom",
+      "repositoryPath": "war-thunder/ground-maps/v1/98dd3058d43edbb5c31c143d.webp",
+      "sha256": "98dd3058d43edbb5c31c143d1ca483c2348dbf5f16738468dbafa3335caa5212",
+      "sourceDomSha256": "61fa29c01ff343e45d674866f33f9361006f964276281e0aaee2b316dcebac2a",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "mapId": "avg_netherlands",
+      "layoutId": "netherlands_02_dom",
+      "repositoryPath": "war-thunder/ground-maps/v1/2e8fdd58fbc8bb25ecb854d8.webp",
+      "sha256": "2e8fdd58fbc8bb25ecb854d8ac74ecd79a1f620e670ca69bd917d6a8e2ead6c5",
+      "sourceDomSha256": "0c89b36eb1fa02397b77031fc307f34be437e69203a468a4a8cc37a4c30e765b",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "mapId": "avg_normandy",
+      "layoutId": "normandy_dom",
+      "repositoryPath": "war-thunder/ground-maps/v1/57cf13e0098fa79b84dbe155.webp",
+      "sha256": "57cf13e0098fa79b84dbe155cdb39c024b20d0c55a3444e16069076cea3c2571",
+      "sourceDomSha256": "a66a1541223a76bf7f3ad05bbee83e4541251b0a12de3f80a70bb75e000b9198",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "mapId": "avg_normandy",
+      "layoutId": "normandy_02_dom",
+      "repositoryPath": "war-thunder/ground-maps/v1/87f4368ec82a256ad36a61fa.webp",
+      "sha256": "87f4368ec82a256ad36a61fae3880983310d3686e98aff0eda6c889ed42f85a4",
+      "sourceDomSha256": "e365938b288e68774ee248e8ee731df4cc12d1b5eda6a997535abc9e582253bc",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "mapId": "avg_northern_india",
+      "layoutId": "northern_india_dom",
+      "repositoryPath": "war-thunder/ground-maps/v1/796fed171e5c2fef8b2bb4be.webp",
+      "sha256": "796fed171e5c2fef8b2bb4bef3922c371f6d63d8e98e0e202e544f7775564e6e",
+      "sourceDomSha256": "6722ab38fbc652635563e042b0cfb60abe7a7fdf69f6e11a8fd52cb970589bb2",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "mapId": "avg_northern_india",
+      "layoutId": "northern_india_02_dom",
+      "repositoryPath": "war-thunder/ground-maps/v1/3ef7a0306f9592ac3dcc0d42.webp",
+      "sha256": "3ef7a0306f9592ac3dcc0d424131a92df070c4b5587ec7c36992c64331fa50f2",
+      "sourceDomSha256": "8ea97dc2c012dcea4e7bdbce3957e50f34c8817820c597d3fbda9bb8c85ff8d2",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "mapId": "avg_northern_valley",
+      "layoutId": "northern_valley_dom",
+      "repositoryPath": "war-thunder/ground-maps/v1/5db7e8038eb3329fb939ebc5.webp",
+      "sha256": "5db7e8038eb3329fb939ebc59fb6d8a2e70c5e9fc445138c33a5c1d274feea27",
+      "sourceDomSha256": "3adecb3490bb7b9f72b48ce4d7ee10ae7b2fa54e5d1dab5914517c2fcb8be269",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "mapId": "avg_northern_valley",
+      "layoutId": "northern_valley_02_dom",
+      "repositoryPath": "war-thunder/ground-maps/v1/f23ac75880288577aedf8457.webp",
+      "sha256": "f23ac75880288577aedf8457f1c65572218f530dba6987942f3191f707ada617",
+      "sourceDomSha256": "6fec30b2917b216136bec2c8c52bdbf0b874f7fce1593727951ca55e853bec82",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "mapId": "avg_nuclear_incident",
+      "layoutId": "nuclear_incident_dom",
+      "repositoryPath": "war-thunder/ground-maps/v1/6ee5f65e91ae398d99d1ce88.webp",
+      "sha256": "6ee5f65e91ae398d99d1ce887a0246866e77a22118fe0128e69ac5ea73132357",
+      "sourceDomSha256": "dd3d2388399c3e3472b9c6947c13f552d775cbf6bd654509f072f01a9684f084",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "mapId": "avg_poland",
+      "layoutId": "poland_dom",
+      "repositoryPath": "war-thunder/ground-maps/v1/8e5eb71df08edb11837971db.webp",
+      "sha256": "8e5eb71df08edb11837971dbf1f38d8d2abf110310614c7571ec9bc2ab68ee3e",
+      "sourceDomSha256": "659841c64c220c542c52cdae897e82eff08ed5f49a2a8b7c790e5893470069a9",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "mapId": "avg_poland",
+      "layoutId": "poland_02_dom",
+      "repositoryPath": "war-thunder/ground-maps/v1/8d04a8f03bc990f51a1bbf96.webp",
+      "sha256": "8d04a8f03bc990f51a1bbf961202c6c00828a9b3a2c730f6767913b3a5b400b3",
+      "sourceDomSha256": "44df6177dda6ae44f81f1cb3212b29dff6cce1a929574b2dfc6a5e22874c2ae6",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "mapId": "avg_poland_snow",
+      "layoutId": "poland_snow_dom",
+      "repositoryPath": "war-thunder/ground-maps/v1/8a5f841a8d012d24483aa28b.webp",
+      "sha256": "8a5f841a8d012d24483aa28b766a3636043d0c9077a5334c9a2c39099f9459ea",
+      "sourceDomSha256": "5de5efd28c656c9b7f7f68d21fe96f90eda1909274bb06ab3e519266ef12a4d2",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "mapId": "avg_poland_snow",
+      "layoutId": "poland_snow_02_dom",
+      "repositoryPath": "war-thunder/ground-maps/v1/16dab4947f215d5c0a87703a.webp",
+      "sha256": "16dab4947f215d5c0a87703a904298c9fac599c5f26699f9cf0acb6d29937c63",
+      "sourceDomSha256": "bc05497893970c8f864dea3e06367426d99a16965cf7d314851ea3042af19de4",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "mapId": "avg_port_novorossiysk",
+      "layoutId": "port_novorossiysk_aslt_dom",
+      "repositoryPath": "war-thunder/ground-maps/v1/e2888e2f519bf3e0ee706e7e.webp",
+      "sha256": "e2888e2f519bf3e0ee706e7e73c7b31343c9933dc6a751d169645105fb623830",
+      "sourceDomSha256": "b5bcd03f91b092ddd01251ccc2da5e32a4ce751ab2c47f0a1532a504493e1f00",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "mapId": "avg_red_desert",
+      "layoutId": "red_desert_dom",
+      "repositoryPath": "war-thunder/ground-maps/v1/d05b152d86f68853cc338c6a.webp",
+      "sha256": "d05b152d86f68853cc338c6ae67a669bb949de7b51ea937b91071043bed6e906",
+      "sourceDomSha256": "c356c42741c105991d0be3c9125bebab49da769842b7cb94fa941efbfcaa29bb",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "mapId": "avg_rheinland",
+      "layoutId": "rheinland_dom",
+      "repositoryPath": "war-thunder/ground-maps/v1/49f00dccc0724e95b5d425b1.webp",
+      "sha256": "49f00dccc0724e95b5d425b1c1f8817603a75f3589818ef32d11a9c1c68437bb",
+      "sourceDomSha256": "1875e8319d92e40fd01a7198994a4bf88a121114730f4a727e1672e96f65ca68",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "mapId": "avg_sector_montmedy",
+      "layoutId": "sector_montmedy_dom",
+      "repositoryPath": "war-thunder/ground-maps/v1/655a392c7d72468dbfba8552.webp",
+      "sha256": "655a392c7d72468dbfba85527e797c75333b8233ae69a30a6269b4f92a27ae9d",
+      "sourceDomSha256": "9c0ef8fc072a85d31e4778d4d287d34f2319fcef2390405ddf4b82c71971d6c2",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "mapId": "avg_sector_montmedy",
+      "layoutId": "sector_montmedy_02_dom",
+      "repositoryPath": "war-thunder/ground-maps/v1/431801066047ca9f774515eb.webp",
+      "sha256": "431801066047ca9f774515eb5dbc2df182da692c60bf1cdc65310d84dba8ed46",
+      "sourceDomSha256": "ce05e16bd56d89eab0ab92cef4d064e2e5131fc4aadcb5d067de1e94d8c8e090",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "mapId": "avg_sector_montmedy_snow",
+      "layoutId": "sector_montmedy_snow_dom",
+      "repositoryPath": "war-thunder/ground-maps/v1/3e9e13c4c91ad51f1ecadb2b.webp",
+      "sha256": "3e9e13c4c91ad51f1ecadb2b0da22a3ddf6a5c76b43fb976eb51c789d7fb6b94",
+      "sourceDomSha256": "fbce837514ab9d9a602f715b94ebac4b3dd010573bb2c0d95253bb3f5524e9a7",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "mapId": "avg_sector_montmedy_snow",
+      "layoutId": "sector_montmedy_snow_02_dom",
+      "repositoryPath": "war-thunder/ground-maps/v1/b5810409203e02e312566520.webp",
+      "sha256": "b5810409203e02e3125665201d5e1af00cf511f93c182c83c5fb27fa842c39fb",
+      "sourceDomSha256": "9d10879ed9d0726736a0c8faf2c3efd647c99dd34522b22c0ec6db0326929c3d",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "mapId": "avg_egypt_sinai",
+      "layoutId": "sinai_dom",
+      "repositoryPath": "war-thunder/ground-maps/v1/abc2ec108f7d21064f7e1c69.webp",
+      "sha256": "abc2ec108f7d21064f7e1c69c704cc82fdbb9fe5a9d0d4892e662f1cfcd23b4f",
+      "sourceDomSha256": "d9ad6cef73502482c724e3adb9c07130157312d1fba70e082bbef5ec8871b759",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "mapId": "avg_egypt_sinai",
+      "layoutId": "sinai_02_dom",
+      "repositoryPath": "war-thunder/ground-maps/v1/f95f64bef99f3c8a951d928d.webp",
+      "sha256": "f95f64bef99f3c8a951d928d4f4c3e60b254f13d115d9f981a03bac73a140fca",
+      "sourceDomSha256": "ba6900dad43cd08c508a3829483f1215785fd9e4a96628ad4a951b5769a77e4e",
+      "width": 491,
+      "height": 512
+    },
+    {
+      "mapId": "avg_soviet_suburban",
+      "layoutId": "soviet_suburban_dom",
+      "repositoryPath": "war-thunder/ground-maps/v1/3442be4c634e1697da2b34ad.webp",
+      "sha256": "3442be4c634e1697da2b34adc743afdebd7dcf03281e080f757a9bf8aae4f08b",
+      "sourceDomSha256": "1ad45107634013f7ba85b03a7b81bd126459c9ba1c8d17dc949da919c72ecf04",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "mapId": "avg_soviet_suburban_snow",
+      "layoutId": "soviet_suburban_snow_dom",
+      "repositoryPath": "war-thunder/ground-maps/v1/834f798d646f26aacc7e839d.webp",
+      "sha256": "834f798d646f26aacc7e839d61d6f4ff75836b2348f6980473e0b4e2b1d79c35",
+      "sourceDomSha256": "b7304ceeac148a63dd24d38344538aacc74c218108f644ca57089a1010a9bb2a",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "mapId": "avg_stalingrad_factory",
+      "layoutId": "stalingrad_factory_dom",
+      "repositoryPath": "war-thunder/ground-maps/v1/bb401827f1a1dec111133b6d.webp",
+      "sha256": "bb401827f1a1dec111133b6de727a38194baa800ed4c227245f2dede573168a3",
+      "sourceDomSha256": "e3afd8a7118f151fdf191432700561da426eaf90b99069f7704172095c1b9013",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "mapId": "avg_sweden",
+      "layoutId": "sweden_dom",
+      "repositoryPath": "war-thunder/ground-maps/v1/8c9e70ca244a0c4814843063.webp",
+      "sha256": "8c9e70ca244a0c481484306370a4f80dfd7c481d971bc7c46d739cd012e0ece3",
+      "sourceDomSha256": "7bf39ca752b379981e4051e4451969b2a7bb37fd3f0ce24632faa8a1053e6f11",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "mapId": "avg_tunisia_desert",
+      "layoutId": "tunisia_dom",
+      "repositoryPath": "war-thunder/ground-maps/v1/ece7631505d5687e19f67922.webp",
+      "sha256": "ece7631505d5687e19f67922eb355afe300ea6f832ee34ec1bb09d7e4fa39bb1",
+      "sourceDomSha256": "180ddde2cee318a1189b526b613a81128d132c60beceee2d66bdc67c75bf7021",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "mapId": "avg_tunisia_desert",
+      "layoutId": "tunisia_02_dom",
+      "repositoryPath": "war-thunder/ground-maps/v1/ddd1005d1f4a756e66cda95a.webp",
+      "sha256": "ddd1005d1f4a756e66cda95a14b47522b9382228633fdaf79c6e75bd129e3f82",
+      "sourceDomSha256": "9f0c1bff63c5fdbc0446501e0b695d90af921c36fada5608fea963eb5be1c697",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "mapId": "avg_vietnam_hills",
+      "layoutId": "vietnam_hills_dom",
+      "repositoryPath": "war-thunder/ground-maps/v1/1fdb4fa563abf0ae473c7909.webp",
+      "sha256": "1fdb4fa563abf0ae473c7909c1b7400febfa30316796aac99d32c72ec0c912e1",
+      "sourceDomSha256": "8b3c67e502eb81eee056ba4d3fbff88ebefeecd85c0759be22fd0180d7cfe335",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "mapId": "avg_vietnam_hills",
+      "layoutId": "vietnam_hills_02_dom",
+      "repositoryPath": "war-thunder/ground-maps/v1/efdd08baf4db96bb6ed99aa4.webp",
+      "sha256": "efdd08baf4db96bb6ed99aa4eb89f7e265305e72c4dc2825198ce7b753edbad7",
+      "sourceDomSha256": "3ddb1de3e5c79f2d80bab7c5b3ee8a8a10e2da34679ca7c5084f59798a2ffa1b",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "mapId": "avg_vlaanderen",
+      "layoutId": "vlaanderen_dom",
+      "repositoryPath": "war-thunder/ground-maps/v1/66cc787c38a989ddeb8f3777.webp",
+      "sha256": "66cc787c38a989ddeb8f37775a551ef9fb8d88c84477c089ccc360636ee2063e",
+      "sourceDomSha256": "3ceeb42d7a8edb81fe930e159f72d7a266f6be18f63d1a60800489963f6bb930",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "mapId": "avg_volokolamsk",
+      "layoutId": "volokolamsk_dom",
+      "repositoryPath": "war-thunder/ground-maps/v1/18f1e60a407566229c353fb3.webp",
+      "sha256": "18f1e60a407566229c353fb363c96cd8a6ec9f13dcb3ffe810bfa88ebd543338",
+      "sourceDomSha256": "e2f48704c31ccc5fd727dfc10522555f0dbe8152a49c1c59946566e82178dd32",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "mapId": "avg_volokolamsk",
+      "layoutId": "volokolamsk_02_dom",
+      "repositoryPath": "war-thunder/ground-maps/v1/e40e69ed0d60e0cb1e7d3b17.webp",
+      "sha256": "e40e69ed0d60e0cb1e7d3b1756f4c92580982450df88d90ff307d72012f095b5",
+      "sourceDomSha256": "53bc0e5b0e22fd3ba6de91414651951006f82f3d925e783f56378ffc892fe80a",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "mapId": "avg_western_europe",
+      "layoutId": "western_europe_dom",
+      "repositoryPath": "war-thunder/ground-maps/v1/a65c167ac38d9eed47a938d1.webp",
+      "sha256": "a65c167ac38d9eed47a938d1b5828280be27a1b62af354dafa1355797fae084a",
+      "sourceDomSha256": "06aa8e20c5575dbd97217427fa58855c2eb3df53a381fc6463236f50d5ad623e",
+      "width": 512,
+      "height": 512
+    }
+  ]
+}
