@@ -1,0 +1,1163 @@
+{
+  "source": "User-provided War Thunder ground map exports, 2026-10-21",
+  "assets": [
+    {
+      "path": "war-thunder/ground-maps/v1/2bf78d3e803c84a0fd8cd42c.svg",
+      "sha256": "2bf78d3e803c84a0fd8cd42cd77e45e9217e074b7fd88396f6a3329280fe2514",
+      "bytes": 1494,
+      "sourceSha256": "2bf78d3e803c84a0fd8cd42cd77e45e9217e074b7fd88396f6a3329280fe2514"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/7a158b5c79a8373580fe814c.svg",
+      "sha256": "7a158b5c79a8373580fe814c455620fa7ce9fba9f9693b8d9c275f4bf2baf5cb",
+      "bytes": 2224,
+      "sourceSha256": "7a158b5c79a8373580fe814c455620fa7ce9fba9f9693b8d9c275f4bf2baf5cb"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/69c2ec1e40df427ce7de01f5.svg",
+      "sha256": "69c2ec1e40df427ce7de01f517858209aca0e9fc176d900a37a493bd342ba3aa",
+      "bytes": 2286,
+      "sourceSha256": "69c2ec1e40df427ce7de01f517858209aca0e9fc176d900a37a493bd342ba3aa"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/0c289a61f962ec75734fcedd.svg",
+      "sha256": "0c289a61f962ec75734fceddab93ecb98c43e1c193abd8c5c8575dca7c02b2c9",
+      "bytes": 1382,
+      "sourceSha256": "0c289a61f962ec75734fceddab93ecb98c43e1c193abd8c5c8575dca7c02b2c9"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/09c23115272799ec6de7fe6d.svg",
+      "sha256": "09c23115272799ec6de7fe6d15671ac7f7da1cf64e192ebdd1e892f4d5ec442a",
+      "bytes": 285,
+      "sourceSha256": "09c23115272799ec6de7fe6d15671ac7f7da1cf64e192ebdd1e892f4d5ec442a"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/b9376daffd83900486fb4fd6.svg",
+      "sha256": "b9376daffd83900486fb4fd676357871f86bc2351a159db3d937fbf08662753d",
+      "bytes": 285,
+      "sourceSha256": "b9376daffd83900486fb4fd676357871f86bc2351a159db3d937fbf08662753d"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/d8b79e4b50084855bd388876.webp",
+      "sha256": "d8b79e4b50084855bd388876bae35c140e0d7b6b419d4cf407eafe313400351a",
+      "bytes": 1377006,
+      "sourceSha256": "d8b79e4b50084855bd388876bae35c140e0d7b6b419d4cf407eafe313400351a"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/f14dec0f86acc1e78dc535be.svg",
+      "sha256": "f14dec0f86acc1e78dc535be15541d491cf75a693dc6098aaaab794871f32da7",
+      "bytes": 167551,
+      "sourceSha256": "61e08eccab13e3608f9ab093926d8ca26d29c46cf2bf479e196e36f4297a2987"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/871860505e39899f21ca7a51.webp",
+      "sha256": "871860505e39899f21ca7a51601c7002d862f4395afa98739c49ffbd7d285ba6",
+      "bytes": 29904,
+      "sourceSha256": "871860505e39899f21ca7a51601c7002d862f4395afa98739c49ffbd7d285ba6"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/5d2803e76be4dbbe65dc0879.webp",
+      "sha256": "5d2803e76be4dbbe65dc0879ab0e2b4d055bf0ac82badea7720e6253e9031c23",
+      "bytes": 3736194,
+      "sourceSha256": "5d2803e76be4dbbe65dc0879ab0e2b4d055bf0ac82badea7720e6253e9031c23"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/159bf93bf9f0f4fc83178af1.svg",
+      "sha256": "159bf93bf9f0f4fc83178af124351072ffb5b751b7034b9d0a7251e14d0bbc9b",
+      "bytes": 11734461,
+      "sourceSha256": "44768f1120aadac2654d7380b1d6fd958bae2f06d1bf9a131c651c69007f1bd5"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/bb53a5907c8c0a5b7081f224.webp",
+      "sha256": "bb53a5907c8c0a5b7081f2243ebe8deb7a55ec5002be68efa4db77c333f8ee9d",
+      "bytes": 49820,
+      "sourceSha256": "bb53a5907c8c0a5b7081f2243ebe8deb7a55ec5002be68efa4db77c333f8ee9d"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/95f2747f98216f9073fc27ba.webp",
+      "sha256": "95f2747f98216f9073fc27ba52cf733331f718ccca9793db773a9bef77e51059",
+      "bytes": 2421652,
+      "sourceSha256": "95f2747f98216f9073fc27ba52cf733331f718ccca9793db773a9bef77e51059"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/983a088751654a4db57da80b.svg",
+      "sha256": "983a088751654a4db57da80b631e2d74d7547a74a7dd538049c80e7caf4231b9",
+      "bytes": 6146580,
+      "sourceSha256": "46c386fe8c0ef4ffca61371c0de8a67c952db42dddc887cfc87ab08915e2b85c"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/6f6dcf7182e03f34bd38cf94.webp",
+      "sha256": "6f6dcf7182e03f34bd38cf944a571872c4a4fddc3b21ce878b76234d4a84a9b2",
+      "bytes": 21858,
+      "sourceSha256": "6f6dcf7182e03f34bd38cf944a571872c4a4fddc3b21ce878b76234d4a84a9b2"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/64722db6e9e9620774a96dc3.webp",
+      "sha256": "64722db6e9e9620774a96dc37f394b45ebc603fb64400973270cb58a63b48b5e",
+      "bytes": 18274,
+      "sourceSha256": "64722db6e9e9620774a96dc37f394b45ebc603fb64400973270cb58a63b48b5e"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/d00e9794c2454ec0fe341b86.webp",
+      "sha256": "d00e9794c2454ec0fe341b866140bdf05b36ccaad0ef0a030822ef77dd25427a",
+      "bytes": 1955372,
+      "sourceSha256": "d00e9794c2454ec0fe341b866140bdf05b36ccaad0ef0a030822ef77dd25427a"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/fe83884f86310014e56415c2.svg",
+      "sha256": "fe83884f86310014e56415c209eecfdd73c7fd949b486ce5d681ffa311711e4b",
+      "bytes": 2941663,
+      "sourceSha256": "0e84b1c705598552e464ab279bd60ea6d888b61be88a6f3923f1c4bf19fb33e1"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/abe53c96a64db1de4bb6aea6.webp",
+      "sha256": "abe53c96a64db1de4bb6aea6be6811e736a087d26e4c895b5c7ea613901be1ac",
+      "bytes": 22062,
+      "sourceSha256": "abe53c96a64db1de4bb6aea6be6811e736a087d26e4c895b5c7ea613901be1ac"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/44aa5a0a2883aea10c0d6e40.webp",
+      "sha256": "44aa5a0a2883aea10c0d6e403e996ea7dc565877d69b7689a3848f322f9142b7",
+      "bytes": 2312714,
+      "sourceSha256": "44aa5a0a2883aea10c0d6e403e996ea7dc565877d69b7689a3848f322f9142b7"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/28e541c080bc39945be8f679.svg",
+      "sha256": "28e541c080bc39945be8f679bc4f94ebc876713b83bdbb7064f10ce3be71b3a6",
+      "bytes": 2685948,
+      "sourceSha256": "97c819dcab757fa884b7618f2ce091675859ed8aa160c512256dc793b0e3c718"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/e8639c78740447a756aca78e.webp",
+      "sha256": "e8639c78740447a756aca78e8096de33f4f914f00cca2964c5ff217a0c6c5927",
+      "bytes": 26354,
+      "sourceSha256": "e8639c78740447a756aca78e8096de33f4f914f00cca2964c5ff217a0c6c5927"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/71025944a1e5ecfc130422a3.webp",
+      "sha256": "71025944a1e5ecfc130422a33c06566e6146b9c7bb288ee094b827b98a3440f8",
+      "bytes": 3806984,
+      "sourceSha256": "71025944a1e5ecfc130422a33c06566e6146b9c7bb288ee094b827b98a3440f8"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/6dc1463f4b7749f22aba4246.svg",
+      "sha256": "6dc1463f4b7749f22aba42462190c2de320eaf45034ea507df5923e46a2da18d",
+      "bytes": 3929331,
+      "sourceSha256": "791d7b95a24782a7183815fbd9d7721938612fca747c5d40601f478735c8084e"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/72dc2529fded89a75957dc4d.webp",
+      "sha256": "72dc2529fded89a75957dc4df14969463ed700c88d61839b149836e8d6cb8397",
+      "bytes": 73040,
+      "sourceSha256": "72dc2529fded89a75957dc4df14969463ed700c88d61839b149836e8d6cb8397"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/a084bcb2ab4f28e4c1ec764f.webp",
+      "sha256": "a084bcb2ab4f28e4c1ec764f10acd52efb7d48df74624f3a015a6c26f025b426",
+      "bytes": 2321234,
+      "sourceSha256": "a084bcb2ab4f28e4c1ec764f10acd52efb7d48df74624f3a015a6c26f025b426"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/127b05685119eca588f6b2ee.svg",
+      "sha256": "127b05685119eca588f6b2ee89049c6c5f8feb4520835058e9544adfe08b2c3b",
+      "bytes": 1904246,
+      "sourceSha256": "d4d0a26db68d9c55aa0a3c8fba403310dc4a0af0835d79b736d623d0972d5b1f"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/734e93e2e6f8dd3ae8e4f133.webp",
+      "sha256": "734e93e2e6f8dd3ae8e4f13390853fda5c6e9dd1a625b88245e3b7440c649546",
+      "bytes": 31118,
+      "sourceSha256": "734e93e2e6f8dd3ae8e4f13390853fda5c6e9dd1a625b88245e3b7440c649546"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/7f5510a2714d11f486c5287c.webp",
+      "sha256": "7f5510a2714d11f486c5287ced311e4c44b7c573ffed4dd6dea37cc0cf076e23",
+      "bytes": 2660122,
+      "sourceSha256": "7f5510a2714d11f486c5287ced311e4c44b7c573ffed4dd6dea37cc0cf076e23"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/fbba5fdccae6d4dc07c9daad.svg",
+      "sha256": "fbba5fdccae6d4dc07c9daade4a2b6f4c2e526994045892495cc2fced9de611b",
+      "bytes": 16514186,
+      "sourceSha256": "51ae47740c7e8f990098a89d5c7b1f36250a203faeac6e24f02d2953291a198c"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/d52acd8308d1d2dd8d1d3017.webp",
+      "sha256": "d52acd8308d1d2dd8d1d301716d13f5c19e9da6d1bee911895f70944bd8c7e40",
+      "bytes": 52752,
+      "sourceSha256": "d52acd8308d1d2dd8d1d301716d13f5c19e9da6d1bee911895f70944bd8c7e40"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/a4412e732b2f4b514120e4cf.webp",
+      "sha256": "a4412e732b2f4b514120e4cf41f6787686aebdf4e9f9f0c9637c0bd2830aeda8",
+      "bytes": 63424,
+      "sourceSha256": "a4412e732b2f4b514120e4cf41f6787686aebdf4e9f9f0c9637c0bd2830aeda8"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/2c141ed9b2969938278a4af3.webp",
+      "sha256": "2c141ed9b2969938278a4af35e4aa0339c6f52b61fc2dd8245fb443e70fe3367",
+      "bytes": 2451350,
+      "sourceSha256": "2c141ed9b2969938278a4af35e4aa0339c6f52b61fc2dd8245fb443e70fe3367"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/eb0923ef14d5e39078b607e3.svg",
+      "sha256": "eb0923ef14d5e39078b607e37c0ee8b6d13dece4e1268f0138d4f0ef7c61b002",
+      "bytes": 2012155,
+      "sourceSha256": "42215570b917c3fa684e2628bca0795ae4420e76d61dc70efe5cb31fe63560cb"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/7bda2c8424f8bd3776b342da.webp",
+      "sha256": "7bda2c8424f8bd3776b342dab9c43a37de9e52d0e0ecb122a76f440a07d441cf",
+      "bytes": 30034,
+      "sourceSha256": "7bda2c8424f8bd3776b342dab9c43a37de9e52d0e0ecb122a76f440a07d441cf"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/d0767520668c2ccffa8ebd71.webp",
+      "sha256": "d0767520668c2ccffa8ebd71c9949b9b81800718a3a3c6a2b983f97431872f48",
+      "bytes": 32828,
+      "sourceSha256": "d0767520668c2ccffa8ebd71c9949b9b81800718a3a3c6a2b983f97431872f48"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/24a93440bc25bd837fd2c9cf.webp",
+      "sha256": "24a93440bc25bd837fd2c9cfeb86d0c3a746ca82b99558f4eedb79ae5b1726a1",
+      "bytes": 2690264,
+      "sourceSha256": "24a93440bc25bd837fd2c9cfeb86d0c3a746ca82b99558f4eedb79ae5b1726a1"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/91f9ecac06be43f57d42b7d9.svg",
+      "sha256": "91f9ecac06be43f57d42b7d92de1460acadae86cd41827c71458fd50328ad3c9",
+      "bytes": 2012156,
+      "sourceSha256": "d870c57fa74f4cdb885a0f805970c8e31fdfacea4820042d9254de4bea38a677"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/d7b153ec348b58f11fd7a815.webp",
+      "sha256": "d7b153ec348b58f11fd7a8159cc74f5af632bde26ced6e0f4adcd9d20682ccaa",
+      "bytes": 39424,
+      "sourceSha256": "d7b153ec348b58f11fd7a8159cc74f5af632bde26ced6e0f4adcd9d20682ccaa"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/a53f6e7898037d8dce96ef82.webp",
+      "sha256": "a53f6e7898037d8dce96ef8208727965cda05639dd18ba25bfbc8fb32ec1ba55",
+      "bytes": 41746,
+      "sourceSha256": "a53f6e7898037d8dce96ef8208727965cda05639dd18ba25bfbc8fb32ec1ba55"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/77760c9bdbc710f680c7fbb9.webp",
+      "sha256": "77760c9bdbc710f680c7fbb921bfc0b95964cf07dac3188e2b7d90bd44a90f37",
+      "bytes": 1644510,
+      "sourceSha256": "77760c9bdbc710f680c7fbb921bfc0b95964cf07dac3188e2b7d90bd44a90f37"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/f3c9beb72902a91a45605526.svg",
+      "sha256": "f3c9beb72902a91a45605526b9378880b68ac647cee81dd9865aa5230df3e429",
+      "bytes": 584685,
+      "sourceSha256": "aef6b56587be48e4f5ec171317dde9a821b5782406be028331aa34bb628883a1"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/af6e6b0d46c1dbaac385b517.webp",
+      "sha256": "af6e6b0d46c1dbaac385b5174f8c5d0653ce88a3f63ec761616f38a7156b2415",
+      "bytes": 40890,
+      "sourceSha256": "af6e6b0d46c1dbaac385b5174f8c5d0653ce88a3f63ec761616f38a7156b2415"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/847a1330b0bd9b75f9257079.webp",
+      "sha256": "847a1330b0bd9b75f9257079f73d1acb811fc31c4116ad4f76bae03d76a1c396",
+      "bytes": 2844680,
+      "sourceSha256": "847a1330b0bd9b75f9257079f73d1acb811fc31c4116ad4f76bae03d76a1c396"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/bb20896d961a2c8bdfb2ff88.svg",
+      "sha256": "bb20896d961a2c8bdfb2ff885ab23509b6787726256c15ca620389288adecb7c",
+      "bytes": 878375,
+      "sourceSha256": "30b2aa2add67f76db404b8f4365ee61cc08e013e02a0c9445c51151202b89828"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/6034f5672142f3fdd6eeca38.webp",
+      "sha256": "6034f5672142f3fdd6eeca3880d5f11ff68793397121383732b7f7176b21e3cd",
+      "bytes": 53004,
+      "sourceSha256": "6034f5672142f3fdd6eeca3880d5f11ff68793397121383732b7f7176b21e3cd"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/08323c47aac940108691d7ec.webp",
+      "sha256": "08323c47aac940108691d7ec22ddb139d8de0c5ca5ae3940817acb4dad46abe2",
+      "bytes": 1518614,
+      "sourceSha256": "08323c47aac940108691d7ec22ddb139d8de0c5ca5ae3940817acb4dad46abe2"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/48fd2a1bf502ba41f616d19c.svg",
+      "sha256": "48fd2a1bf502ba41f616d19c28be5dff1ac785915217c19cc7b4e92a158b5132",
+      "bytes": 848148,
+      "sourceSha256": "d5ee811005407c286398ff53004d56d6d13b226258801072db660dcfdee0cd2a"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/7f18b42d6724774ea0455921.webp",
+      "sha256": "7f18b42d6724774ea045592177888256cc24d8bbbb04d8915f24badd541eed15",
+      "bytes": 29572,
+      "sourceSha256": "7f18b42d6724774ea045592177888256cc24d8bbbb04d8915f24badd541eed15"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/c04b94246a905819dfb15559.webp",
+      "sha256": "c04b94246a905819dfb15559d1b3190536221d283582cf6166371f3d66c8dc7d",
+      "bytes": 2331702,
+      "sourceSha256": "c04b94246a905819dfb15559d1b3190536221d283582cf6166371f3d66c8dc7d"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/3abb51d57b23e9ece730f36d.svg",
+      "sha256": "3abb51d57b23e9ece730f36db61a1967dc6304f5483a3cbfdb50de38c01f6a61",
+      "bytes": 2142495,
+      "sourceSha256": "8a82d2c8145ce68a7d20094c53af1daa6dfe1498f5dcd1a775525d5bf9f0a750"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/3a70f81ed541cc3998a1f5dc.webp",
+      "sha256": "3a70f81ed541cc3998a1f5dc775cc4c5435fe18c7734be9fefccdf3f445b229b",
+      "bytes": 35320,
+      "sourceSha256": "3a70f81ed541cc3998a1f5dc775cc4c5435fe18c7734be9fefccdf3f445b229b"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/5b6f6c256a8f376f0461ec72.webp",
+      "sha256": "5b6f6c256a8f376f0461ec72c4988e1cda737ff2eb6fa259c09c45b2dc2f65d8",
+      "bytes": 28858,
+      "sourceSha256": "5b6f6c256a8f376f0461ec72c4988e1cda737ff2eb6fa259c09c45b2dc2f65d8"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/1fa4baf404dd1da031ba6b9f.webp",
+      "sha256": "1fa4baf404dd1da031ba6b9fd5ddf4360b56ea0aa4846853acd3d30105973bc1",
+      "bytes": 35510,
+      "sourceSha256": "1fa4baf404dd1da031ba6b9fd5ddf4360b56ea0aa4846853acd3d30105973bc1"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/7971bb97e433ebed40a2ec58.webp",
+      "sha256": "7971bb97e433ebed40a2ec58248fad84f270e22198f47f1a8684f3894a37fc42",
+      "bytes": 9810888,
+      "sourceSha256": "7971bb97e433ebed40a2ec58248fad84f270e22198f47f1a8684f3894a37fc42"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/d1dca83fc81f0c2233f356a5.svg",
+      "sha256": "d1dca83fc81f0c2233f356a5eee02ad61dbd5f48ec47a3992d1b375994f8e190",
+      "bytes": 752011,
+      "sourceSha256": "71e631e3062e10509af3fdb08a9e290fb67fe431b386cefda215364690a2888b"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/255d212f0638a51574846182.webp",
+      "sha256": "255d212f0638a515748461821a941ef24754794a926c7452ec66085839febae3",
+      "bytes": 27166,
+      "sourceSha256": "255d212f0638a515748461821a941ef24754794a926c7452ec66085839febae3"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/2e29b113560d810286b5a7b5.webp",
+      "sha256": "2e29b113560d810286b5a7b51f4c01926193d0c4766889c95c2fa1f2f4bb9192",
+      "bytes": 1794240,
+      "sourceSha256": "2e29b113560d810286b5a7b51f4c01926193d0c4766889c95c2fa1f2f4bb9192"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/7a337dc552e11f302f35d47e.svg",
+      "sha256": "7a337dc552e11f302f35d47e785f9beb22fe56b05a5839e86b19eef47024a82a",
+      "bytes": 2108091,
+      "sourceSha256": "5ef261b1e91f53b656afeba93bb888825bca784027ae4aff2ec3cb1352e4a20a"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/efaf16d6f45dad85682d1fca.webp",
+      "sha256": "efaf16d6f45dad85682d1fcae0e5d576d00ae8572203ac6455f71d9e7d22ccfa",
+      "bytes": 26484,
+      "sourceSha256": "efaf16d6f45dad85682d1fcae0e5d576d00ae8572203ac6455f71d9e7d22ccfa"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/64ab26a8870c7d446d945982.webp",
+      "sha256": "64ab26a8870c7d446d945982faa8d2cb56a7e4ed14c9b17d67b6a21f983f7496",
+      "bytes": 2406234,
+      "sourceSha256": "64ab26a8870c7d446d945982faa8d2cb56a7e4ed14c9b17d67b6a21f983f7496"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/9791a4d41e4e7d3f5dfdb747.svg",
+      "sha256": "9791a4d41e4e7d3f5dfdb747ade8cf76ec41a72f3131260eea67545e56d88ec5",
+      "bytes": 2828618,
+      "sourceSha256": "fc54271c32276e0fb829f35ecc8191c0186cf8d0302ca3ccd695fe07392724f3"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/a4085e56dbe62058cb9a018e.webp",
+      "sha256": "a4085e56dbe62058cb9a018e1da3b1b746d511318666485e3629c4e4d76bd2c9",
+      "bytes": 40490,
+      "sourceSha256": "a4085e56dbe62058cb9a018e1da3b1b746d511318666485e3629c4e4d76bd2c9"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/268aa8ed41b4472a02e069e7.webp",
+      "sha256": "268aa8ed41b4472a02e069e7295b9aeb22f41cb5f76d3ae85392ea228207efbc",
+      "bytes": 1240450,
+      "sourceSha256": "268aa8ed41b4472a02e069e7295b9aeb22f41cb5f76d3ae85392ea228207efbc"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/5ff0ba2103394de8c221e4e0.svg",
+      "sha256": "5ff0ba2103394de8c221e4e0aa8a3b8fc37889b3acf552f5a74022d8a406ce8e",
+      "bytes": 3658327,
+      "sourceSha256": "9580cbbfb96d01841caa28301dde0c30598f157b3955392ecedd2376878b7d5c"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/8e0214789aafea0a4565fb24.webp",
+      "sha256": "8e0214789aafea0a4565fb240f91326e41b5fcb29465a663694afde37db5e1de",
+      "bytes": 19028,
+      "sourceSha256": "8e0214789aafea0a4565fb240f91326e41b5fcb29465a663694afde37db5e1de"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/2f3b106b7c25413c9f8898d0.webp",
+      "sha256": "2f3b106b7c25413c9f8898d029c3ae9cb99bcce0e18096b7f8320e146e03ef12",
+      "bytes": 17018,
+      "sourceSha256": "2f3b106b7c25413c9f8898d029c3ae9cb99bcce0e18096b7f8320e146e03ef12"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/4b98afbd45ed94029f8425ce.webp",
+      "sha256": "4b98afbd45ed94029f8425ce58726e37741f0890b986868699301daa0a16319a",
+      "bytes": 2563052,
+      "sourceSha256": "4b98afbd45ed94029f8425ce58726e37741f0890b986868699301daa0a16319a"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/7b2a870ec875b99f616f3ea7.svg",
+      "sha256": "7b2a870ec875b99f616f3ea70705fded0e977528edd3076cd80b901484075d53",
+      "bytes": 1529353,
+      "sourceSha256": "0764c5236fe65b47f5f266a6a46f002470508887a7b4bd90acd19dddeff64a10"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/6d10dc2cb008e01a2208da18.webp",
+      "sha256": "6d10dc2cb008e01a2208da1890fa32b7f55c7b27aa9240a9d60a28c89021e636",
+      "bytes": 52418,
+      "sourceSha256": "6d10dc2cb008e01a2208da1890fa32b7f55c7b27aa9240a9d60a28c89021e636"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/d3c6972d00dd96596f0779c5.webp",
+      "sha256": "d3c6972d00dd96596f0779c5a65622a61786b532ebea1ba4b6724d9199047e47",
+      "bytes": 1960366,
+      "sourceSha256": "d3c6972d00dd96596f0779c5a65622a61786b532ebea1ba4b6724d9199047e47"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/5692a05dd5f25c93799f7cab.svg",
+      "sha256": "5692a05dd5f25c93799f7cab6f833efa2671e761338e21767d4b344b5bbb35c3",
+      "bytes": 4636934,
+      "sourceSha256": "95752be4df057bb0fc09d9f091ddda74b02a33cd29d8845672651aaabb081d15"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/a29cef576fe113351f51596f.webp",
+      "sha256": "a29cef576fe113351f51596fab3aee2b1f274404b4a3714b3fd3a0c6ebe2e597",
+      "bytes": 40256,
+      "sourceSha256": "a29cef576fe113351f51596fab3aee2b1f274404b4a3714b3fd3a0c6ebe2e597"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/80f794be79496f09b988bca1.webp",
+      "sha256": "80f794be79496f09b988bca147f3a99ac2d8b532ebd81aa2f0885445b2e75407",
+      "bytes": 1856524,
+      "sourceSha256": "80f794be79496f09b988bca147f3a99ac2d8b532ebd81aa2f0885445b2e75407"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/8f8bb5e8e6c0657277dbe8cb.svg",
+      "sha256": "8f8bb5e8e6c0657277dbe8cbfcfaaa6f36f3f6d324de9ba1cc9ccf19098da71a",
+      "bytes": 3208091,
+      "sourceSha256": "e52434b1dc83cab341990050c9456ab392f907ba597191dd2e619af565b3086c"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/7c18ef92f2e3635a24b3e97e.webp",
+      "sha256": "7c18ef92f2e3635a24b3e97ee0af85d0dc07d2a817c28ff1380d453669d63883",
+      "bytes": 16622,
+      "sourceSha256": "7c18ef92f2e3635a24b3e97ee0af85d0dc07d2a817c28ff1380d453669d63883"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/08b3b24cdb1994c4b3777aaa.webp",
+      "sha256": "08b3b24cdb1994c4b3777aaac104165a16cc428b45f3801ab4a18a1297293b02",
+      "bytes": 19042,
+      "sourceSha256": "08b3b24cdb1994c4b3777aaac104165a16cc428b45f3801ab4a18a1297293b02"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/5404199f3b48c7c0ee9081f5.webp",
+      "sha256": "5404199f3b48c7c0ee9081f526a0c6fd6a2796763caa7025c6972574b6f56acb",
+      "bytes": 2268804,
+      "sourceSha256": "5404199f3b48c7c0ee9081f526a0c6fd6a2796763caa7025c6972574b6f56acb"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/d529b5192ffb3c6b1ad60278.svg",
+      "sha256": "d529b5192ffb3c6b1ad602780df1c836d045b1559a9230295bccff3b28a69a46",
+      "bytes": 2447113,
+      "sourceSha256": "1dc9f21dad43aef677e63d252be5c844e69c714f1811f917a1190e9b75164a73"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/33d1eced2e8263c385374689.webp",
+      "sha256": "33d1eced2e8263c38537468968be6eb310b40c58af1d6e57b6fcbe0734b47fd0",
+      "bytes": 48060,
+      "sourceSha256": "33d1eced2e8263c38537468968be6eb310b40c58af1d6e57b6fcbe0734b47fd0"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/72950b0e02e0982e5dc3d8fc.webp",
+      "sha256": "72950b0e02e0982e5dc3d8fc03bb01584415381a0df19b00919caf1f6b971a0a",
+      "bytes": 5583778,
+      "sourceSha256": "72950b0e02e0982e5dc3d8fc03bb01584415381a0df19b00919caf1f6b971a0a"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/e39e5d4d34d0ba7668b60207.svg",
+      "sha256": "e39e5d4d34d0ba7668b60207ab6b92ce368f33453904229c59bc82b4c19eef27",
+      "bytes": 6078843,
+      "sourceSha256": "5c25d3d117bd4c751c2a0a578f9e256425cf01670bd0c9345a34e6aac6556b19"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/c768444d3bf30fe8958a014d.webp",
+      "sha256": "c768444d3bf30fe8958a014d59442a11c86f130d535e6568c24f5d6bab911006",
+      "bytes": 14358,
+      "sourceSha256": "c768444d3bf30fe8958a014d59442a11c86f130d535e6568c24f5d6bab911006"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/fe63460fcfb01bd865722a40.webp",
+      "sha256": "fe63460fcfb01bd865722a40f6b83339b0f4a38378213f218a8756c2d68d796d",
+      "bytes": 2393216,
+      "sourceSha256": "fe63460fcfb01bd865722a40f6b83339b0f4a38378213f218a8756c2d68d796d"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/308728e4219108592f13d129.svg",
+      "sha256": "308728e4219108592f13d129e78e921fc3cb938ac528172717c01d615be3124c",
+      "bytes": 885967,
+      "sourceSha256": "b3c0da1b3ea24f27c7c3f6c4fba83851b2057d64cb5733f4d19a7816dfb6e6a0"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/3d4bc29c654f0aa286285051.webp",
+      "sha256": "3d4bc29c654f0aa286285051bbbf6a5ca979a73240214dcde48fb2a215c5c8d3",
+      "bytes": 36136,
+      "sourceSha256": "3d4bc29c654f0aa286285051bbbf6a5ca979a73240214dcde48fb2a215c5c8d3"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/5bee454b32b7f5d138dee45d.webp",
+      "sha256": "5bee454b32b7f5d138dee45db91980421a03f140efde650ce111034c3010b86e",
+      "bytes": 1086150,
+      "sourceSha256": "5bee454b32b7f5d138dee45db91980421a03f140efde650ce111034c3010b86e"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/eacb9d09e71efc13c86e379a.svg",
+      "sha256": "eacb9d09e71efc13c86e379a5506d771adf3066c678d4465f2dab8523113cfb7",
+      "bytes": 6283384,
+      "sourceSha256": "67d23b082270b1e19b7fe5708a0b194ecc9d718a7ff8519749551438621bd3b8"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/8e4e1a70f8ebaa6132f94bd6.webp",
+      "sha256": "8e4e1a70f8ebaa6132f94bd60f812d429706c7a29217575ee52e21604059e032",
+      "bytes": 34332,
+      "sourceSha256": "8e4e1a70f8ebaa6132f94bd60f812d429706c7a29217575ee52e21604059e032"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/a1104d52540518fd0a4d84af.webp",
+      "sha256": "a1104d52540518fd0a4d84af5cbfb36067bd775c2e518ba675ff169b60170476",
+      "bytes": 1776814,
+      "sourceSha256": "a1104d52540518fd0a4d84af5cbfb36067bd775c2e518ba675ff169b60170476"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/aa8cdbe652c765459e496d35.svg",
+      "sha256": "aa8cdbe652c765459e496d350a4c163a2164e50d8efec624e2106a84285d4b45",
+      "bytes": 4404900,
+      "sourceSha256": "06ac8d5747ce0969ee3f319364d21026a424daf4387c88693a483e0cfe96ec5a"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/da02cd2aebe4ac081663f40c.webp",
+      "sha256": "da02cd2aebe4ac081663f40c44aaa19d64cc6c70b306fb3209b7e2c14eeb6d68",
+      "bytes": 33450,
+      "sourceSha256": "da02cd2aebe4ac081663f40c44aaa19d64cc6c70b306fb3209b7e2c14eeb6d68"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/0b4d9f2af8ee7328acca70ec.webp",
+      "sha256": "0b4d9f2af8ee7328acca70ec5ab1fd4de47909589d08bf7e7efedd91025ec4a7",
+      "bytes": 3071588,
+      "sourceSha256": "0b4d9f2af8ee7328acca70ec5ab1fd4de47909589d08bf7e7efedd91025ec4a7"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/911186ad734206abab784b0f.svg",
+      "sha256": "911186ad734206abab784b0fa72a076afb381d059b686463b806e065ce202429",
+      "bytes": 3803592,
+      "sourceSha256": "d2144eabf8d379378142d0baa1838cdfc4eded77d9fdfdae1464afc5e10021e5"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/a0e7cb5e1ba489a5e17a772d.webp",
+      "sha256": "a0e7cb5e1ba489a5e17a772ddfc4ac9caa0701a2c5946c2f464d6e14b6a36e90",
+      "bytes": 34408,
+      "sourceSha256": "a0e7cb5e1ba489a5e17a772ddfc4ac9caa0701a2c5946c2f464d6e14b6a36e90"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/0493d1846710f149fb6c2286.webp",
+      "sha256": "0493d1846710f149fb6c2286d8e106131ad46d24330e986eeef58bb4cd2c7824",
+      "bytes": 2142316,
+      "sourceSha256": "0493d1846710f149fb6c2286d8e106131ad46d24330e986eeef58bb4cd2c7824"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/f1b42bf2ecd2f42eee57c0b2.svg",
+      "sha256": "f1b42bf2ecd2f42eee57c0b28778645ca0cbbf5fd2ac4b52dda3be10969a269b",
+      "bytes": 4758052,
+      "sourceSha256": "33aaa79f5cb9d87aebb97da4a9189f6306e7be2b5838a8f051bd0c60f59ea681"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/d2b249a14f81a5b2100ad36c.webp",
+      "sha256": "d2b249a14f81a5b2100ad36c7f4fd2a5b38f0544525ca27a16c2e503667a25a9",
+      "bytes": 43694,
+      "sourceSha256": "d2b249a14f81a5b2100ad36c7f4fd2a5b38f0544525ca27a16c2e503667a25a9"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/bd2da597b663d2e56c708e3d.webp",
+      "sha256": "bd2da597b663d2e56c708e3d484cce674494d659b50c7cef2143e0dc7fd06947",
+      "bytes": 3239788,
+      "sourceSha256": "bd2da597b663d2e56c708e3d484cce674494d659b50c7cef2143e0dc7fd06947"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/2cd4a8412277fbe8540f960e.svg",
+      "sha256": "2cd4a8412277fbe8540f960e7f65a211de5c7b9ad59a2e72fe4ff7484bdf71b0",
+      "bytes": 6499461,
+      "sourceSha256": "50878cfda646c95b54b53382c6338d77af79281a59f6da90283cb589a513aee4"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/8b95d370040c549c4b3c0971.webp",
+      "sha256": "8b95d370040c549c4b3c097177683adced2460e5729a690ff4b2183b52c42340",
+      "bytes": 54050,
+      "sourceSha256": "8b95d370040c549c4b3c097177683adced2460e5729a690ff4b2183b52c42340"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/c5d89dbedbebd2dfdf533a22.webp",
+      "sha256": "c5d89dbedbebd2dfdf533a2257be4d0a41ccd8117c2764ab858704f2f46276b2",
+      "bytes": 1305136,
+      "sourceSha256": "c5d89dbedbebd2dfdf533a2257be4d0a41ccd8117c2764ab858704f2f46276b2"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/e4c693bcb2794540518ab0c6.svg",
+      "sha256": "e4c693bcb2794540518ab0c6134311bce6d2ed9edfaa9076642fe14c6b584699",
+      "bytes": 2587592,
+      "sourceSha256": "29574f009da2a53e350d8ff1d28d6780db1f92ab4795c8a7b9666951588823b4"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/105ad98edd2034025c050141.webp",
+      "sha256": "105ad98edd2034025c05014141de88b5b412662e8c5d46362eec834f13f697ce",
+      "bytes": 18198,
+      "sourceSha256": "105ad98edd2034025c05014141de88b5b412662e8c5d46362eec834f13f697ce"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/b47968dd050b5b47a7d3f881.webp",
+      "sha256": "b47968dd050b5b47a7d3f881da1f90449399c0e5abef3a30f7feaff0a063dee1",
+      "bytes": 15016,
+      "sourceSha256": "b47968dd050b5b47a7d3f881da1f90449399c0e5abef3a30f7feaff0a063dee1"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/93dba458d6cb4ec33624ae81.webp",
+      "sha256": "93dba458d6cb4ec33624ae8133fbbeb1fad0d575dc45f4c28994f372d3b4e553",
+      "bytes": 2130968,
+      "sourceSha256": "93dba458d6cb4ec33624ae8133fbbeb1fad0d575dc45f4c28994f372d3b4e553"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/a0251cba9322c497fbcad6a6.svg",
+      "sha256": "a0251cba9322c497fbcad6a6d9f60140de4b2ca360ebb5f0c3a026cf55c10c65",
+      "bytes": 9354784,
+      "sourceSha256": "bf70aab08cf720ef6ec0301ee8c5cc39e7c4298aef7e82c75b23d3c354b0d952"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/011ff67c0a2ff082e5e138be.webp",
+      "sha256": "011ff67c0a2ff082e5e138bee300d140e324c258492b7bc55d9725388f518871",
+      "bytes": 26102,
+      "sourceSha256": "011ff67c0a2ff082e5e138bee300d140e324c258492b7bc55d9725388f518871"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/a76929a2c05bd31a84398b0c.webp",
+      "sha256": "a76929a2c05bd31a84398b0c0b37062a997b561f7e18b8cf5e6dd1140cd5982f",
+      "bytes": 1388802,
+      "sourceSha256": "a76929a2c05bd31a84398b0c0b37062a997b561f7e18b8cf5e6dd1140cd5982f"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/f91baf781e4de42a00446a8a.svg",
+      "sha256": "f91baf781e4de42a00446a8aa4c5e3f284bcb32f2cd787ac9a1d6a35560b6b64",
+      "bytes": 878029,
+      "sourceSha256": "07030633b8f99b838755280a2d8912d8381023a434f0cebe69bace20acfb6059"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/c4ba5ca11123f7361d2dfd2a.webp",
+      "sha256": "c4ba5ca11123f7361d2dfd2a5430f98376d591e4bcd7f932d9dbeccb338b2378",
+      "bytes": 18240,
+      "sourceSha256": "c4ba5ca11123f7361d2dfd2a5430f98376d591e4bcd7f932d9dbeccb338b2378"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/273f38295f4abec37035c951.webp",
+      "sha256": "273f38295f4abec37035c95133222d07602c7b251e37912e785549cde52efa1f",
+      "bytes": 2079670,
+      "sourceSha256": "273f38295f4abec37035c95133222d07602c7b251e37912e785549cde52efa1f"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/681aea8fe431f9e16b96fb1a.svg",
+      "sha256": "681aea8fe431f9e16b96fb1a0c4d34f8953c949f8e65806f6865838095f09254",
+      "bytes": 3992574,
+      "sourceSha256": "43619d8c9323edd2d55e92a8928947dfc5b96ee0f71e671f474a1277bbde08d9"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/b8511551d90a2376d2470c83.webp",
+      "sha256": "b8511551d90a2376d2470c839e854d1148495f5181190c4f4f0fd5865269d845",
+      "bytes": 16948,
+      "sourceSha256": "b8511551d90a2376d2470c839e854d1148495f5181190c4f4f0fd5865269d845"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/45640eff2a93ecf7a7410814.webp",
+      "sha256": "45640eff2a93ecf7a7410814b5e8a7aa8df878abe7a401b06d74c820dd1edb08",
+      "bytes": 14624,
+      "sourceSha256": "45640eff2a93ecf7a7410814b5e8a7aa8df878abe7a401b06d74c820dd1edb08"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/1dd9243d2ad2ad88e2110195.webp",
+      "sha256": "1dd9243d2ad2ad88e2110195d9b4112ea5989057d9c302dc2625de459cade301",
+      "bytes": 2922918,
+      "sourceSha256": "1dd9243d2ad2ad88e2110195d9b4112ea5989057d9c302dc2625de459cade301"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/6f504167a671f1d688b01d3a.svg",
+      "sha256": "6f504167a671f1d688b01d3a3b683cbd1f2f88a3f12efbbaf2d4bad4a18908de",
+      "bytes": 1649932,
+      "sourceSha256": "7626871a8727065db604831844a5eceba9da73db7e8d2ff608f7ea5995a94a61"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/7590467b8b235e5fd1827930.webp",
+      "sha256": "7590467b8b235e5fd1827930256950a6af22b1971fbd3ab252bc66637307a356",
+      "bytes": 35924,
+      "sourceSha256": "7590467b8b235e5fd1827930256950a6af22b1971fbd3ab252bc66637307a356"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/c0ad93a64b26c90388e14db5.webp",
+      "sha256": "c0ad93a64b26c90388e14db5ab40a68cf112d0464d09efac623b59f8064983b0",
+      "bytes": 34320,
+      "sourceSha256": "c0ad93a64b26c90388e14db5ab40a68cf112d0464d09efac623b59f8064983b0"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/0ff882159dfca8c6fa67581e.webp",
+      "sha256": "0ff882159dfca8c6fa67581e6c03fbab2dd0fb6000c95499ee3c54ee7cba6fd6",
+      "bytes": 2451890,
+      "sourceSha256": "0ff882159dfca8c6fa67581e6c03fbab2dd0fb6000c95499ee3c54ee7cba6fd6"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/8729369ce9e1f644313f2700.svg",
+      "sha256": "8729369ce9e1f644313f2700e8731b26f5276f2d6f1ff5ef6723be4709a23988",
+      "bytes": 2359357,
+      "sourceSha256": "86fe557e320b797e2c14474cf138dcd6bfe6da2e8d5fa93eeff53e64f4b19614"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/5dc0f23fb35b1305a7aad32a.webp",
+      "sha256": "5dc0f23fb35b1305a7aad32ab03c0f0d19acaa6bffa6a9fa4812329899171c06",
+      "bytes": 19396,
+      "sourceSha256": "5dc0f23fb35b1305a7aad32ab03c0f0d19acaa6bffa6a9fa4812329899171c06"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/fda16bf6044265997df5d0a0.webp",
+      "sha256": "fda16bf6044265997df5d0a0dc4efe0e9f6fe0637adbc0921f8583ebf626e5e0",
+      "bytes": 22346,
+      "sourceSha256": "fda16bf6044265997df5d0a0dc4efe0e9f6fe0637adbc0921f8583ebf626e5e0"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/caa281e1e155fb86566c4f0c.webp",
+      "sha256": "caa281e1e155fb86566c4f0c05ec1dd9beb13556e13c95776ea07b52d926c6b4",
+      "bytes": 2029414,
+      "sourceSha256": "caa281e1e155fb86566c4f0c05ec1dd9beb13556e13c95776ea07b52d926c6b4"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/6d097bbd51f93bfe8cab3cf1.svg",
+      "sha256": "6d097bbd51f93bfe8cab3cf1876ba9b360e1dafcb055ccd7c717de84f2739614",
+      "bytes": 19112212,
+      "sourceSha256": "7f2d980ddcac0081f3fe23bbff781f6e97d75c87670ee55f94643ad6ee48f9be"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/35c12c49a1e024a39c41965e.webp",
+      "sha256": "35c12c49a1e024a39c41965e7c8ba542e8786a4f2400d1382d0b126045d01fd3",
+      "bytes": 44676,
+      "sourceSha256": "35c12c49a1e024a39c41965e7c8ba542e8786a4f2400d1382d0b126045d01fd3"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/bbcd027ea179660117a086a4.webp",
+      "sha256": "bbcd027ea179660117a086a41bfe0a704b4456b0d310509c3239ad56769e7eee",
+      "bytes": 44638,
+      "sourceSha256": "bbcd027ea179660117a086a41bfe0a704b4456b0d310509c3239ad56769e7eee"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/16d18bfca4d5050dc1b2b519.webp",
+      "sha256": "16d18bfca4d5050dc1b2b51995c2d10da3ec2687cd13bad231bf2d85925848c9",
+      "bytes": 3481016,
+      "sourceSha256": "16d18bfca4d5050dc1b2b51995c2d10da3ec2687cd13bad231bf2d85925848c9"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/c0655ca95afb85f4c5ac3cf4.svg",
+      "sha256": "c0655ca95afb85f4c5ac3cf4c9515afcbc308ccafb8a8ce3b81bf66d7ed49a52",
+      "bytes": 9787774,
+      "sourceSha256": "0fcf27d8021d9665dfa74a9b28ba2ce6ac384f07b4697a563d8df755172752b0"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/219401592394acb3c983c488.webp",
+      "sha256": "219401592394acb3c983c488d5c88a1226daf569b404c87859974a617729d487",
+      "bytes": 60190,
+      "sourceSha256": "219401592394acb3c983c488d5c88a1226daf569b404c87859974a617729d487"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/16934db0cd1235442dd1194d.webp",
+      "sha256": "16934db0cd1235442dd1194d1fbfc885286154cd6534a78be4f959a79019327c",
+      "bytes": 62516,
+      "sourceSha256": "16934db0cd1235442dd1194d1fbfc885286154cd6534a78be4f959a79019327c"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/c000fab0ea1a703ed5d91fbd.webp",
+      "sha256": "c000fab0ea1a703ed5d91fbd57d6d3a5155541ac4985b28184b56afbc0aed142",
+      "bytes": 1686814,
+      "sourceSha256": "c000fab0ea1a703ed5d91fbd57d6d3a5155541ac4985b28184b56afbc0aed142"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/5161da1c427ee6c3c080b842.svg",
+      "sha256": "5161da1c427ee6c3c080b84201c288e082df746c0876617629da47715c6375a5",
+      "bytes": 2947800,
+      "sourceSha256": "d37543035100334d1091742c60de6ec53985ca969df4365119d77e8eebb338a2"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/5609a59b07dbc4d29dcc2f7e.webp",
+      "sha256": "5609a59b07dbc4d29dcc2f7e35d579e0eaac71a6b50ccc375415283c6dbc8872",
+      "bytes": 18930,
+      "sourceSha256": "5609a59b07dbc4d29dcc2f7e35d579e0eaac71a6b50ccc375415283c6dbc8872"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/e077aeb124b310fa80cabe69.webp",
+      "sha256": "e077aeb124b310fa80cabe696d23727e55e0794b795d2e7e42f5167418fe4941",
+      "bytes": 2875794,
+      "sourceSha256": "e077aeb124b310fa80cabe696d23727e55e0794b795d2e7e42f5167418fe4941"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/a752310d2aa5d709438c9c27.svg",
+      "sha256": "a752310d2aa5d709438c9c2770c9f9a1d947ef7e92b854c468f95b1bdb6502aa",
+      "bytes": 1838685,
+      "sourceSha256": "d97911ec7d48e281efe62eea4f59ca73f09e269343ff6476f6dbb4a923dd21a1"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/5fd101d9a7d32434817368bc.webp",
+      "sha256": "5fd101d9a7d32434817368bc5246f24568d19c11a82ae8fd7a6137c815917b0e",
+      "bytes": 25812,
+      "sourceSha256": "5fd101d9a7d32434817368bc5246f24568d19c11a82ae8fd7a6137c815917b0e"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/5432daba4739dea11fd1516d.webp",
+      "sha256": "5432daba4739dea11fd1516d13eca33ee29af027d0f3727572f49241a4e89885",
+      "bytes": 24360,
+      "sourceSha256": "5432daba4739dea11fd1516d13eca33ee29af027d0f3727572f49241a4e89885"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/0a509e92d38b6f27bf0b301f.webp",
+      "sha256": "0a509e92d38b6f27bf0b301f830d7beb3ae449aa014bf5dc39420b643f292d6d",
+      "bytes": 1932410,
+      "sourceSha256": "0a509e92d38b6f27bf0b301f830d7beb3ae449aa014bf5dc39420b643f292d6d"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/95fcc6cb2b168ed7c429905d.svg",
+      "sha256": "95fcc6cb2b168ed7c429905d01533bb9b41280775adbc03c9e058e0f7a2020cd",
+      "bytes": 1824311,
+      "sourceSha256": "16194d2e11bb4dd978ee44ea0bd3a00e44c298940b4edc2db8b87c07194bb080"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/0db1a5d3c564e92729d52eba.webp",
+      "sha256": "0db1a5d3c564e92729d52eba8ae5eb060a05a9bca6e494bea2d8e8ec79b35a53",
+      "bytes": 30402,
+      "sourceSha256": "0db1a5d3c564e92729d52eba8ae5eb060a05a9bca6e494bea2d8e8ec79b35a53"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/6b49fdcf6927d77719b3bae5.webp",
+      "sha256": "6b49fdcf6927d77719b3bae5a38d00e1b7c562c928b8b96c456e503536d0f58f",
+      "bytes": 28662,
+      "sourceSha256": "6b49fdcf6927d77719b3bae5a38d00e1b7c562c928b8b96c456e503536d0f58f"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/5c3c7a70f142e733c201b265.webp",
+      "sha256": "5c3c7a70f142e733c201b2651441ebf497c641f5a0fb33a5c5fc33b87d1ce10b",
+      "bytes": 1180254,
+      "sourceSha256": "5c3c7a70f142e733c201b2651441ebf497c641f5a0fb33a5c5fc33b87d1ce10b"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/028d14bfcb3ea0e45bce47c7.svg",
+      "sha256": "028d14bfcb3ea0e45bce47c7e11ff5b9fc85e6c6964ca3bc7e0b15d432cfdfc6",
+      "bytes": 1348765,
+      "sourceSha256": "9f20555ce5ffe5c359c6ab6b66e8ee8e7c6f1b39c46cdfc0550b4b246d2cd34b"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/b31a34b73a7af083b4888e04.webp",
+      "sha256": "b31a34b73a7af083b4888e046a034181900490b37ef801196a724ce8756b43f7",
+      "bytes": 18492,
+      "sourceSha256": "b31a34b73a7af083b4888e046a034181900490b37ef801196a724ce8756b43f7"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/12edbe515e2132ece29b6396.webp",
+      "sha256": "12edbe515e2132ece29b6396ecd0704337cd3da2eff8190ff4ddb1acb9e7617c",
+      "bytes": 1211326,
+      "sourceSha256": "12edbe515e2132ece29b6396ecd0704337cd3da2eff8190ff4ddb1acb9e7617c"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/ca5d8771c79202ca7dd5a3dd.svg",
+      "sha256": "ca5d8771c79202ca7dd5a3ddb75df5151e82e31673d007f44cda21fbc87dae2c",
+      "bytes": 4346819,
+      "sourceSha256": "a394f009197fd36121e9961567d93bfe1aa6ebfb849fd6278322dc94b289a7ef"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/1bcd16f6a0dda73ba0d380f4.webp",
+      "sha256": "1bcd16f6a0dda73ba0d380f4dbeb5d2cb8e7afc8c40b56e05036a7ae30a276a0",
+      "bytes": 23466,
+      "sourceSha256": "1bcd16f6a0dda73ba0d380f4dbeb5d2cb8e7afc8c40b56e05036a7ae30a276a0"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/75219c2fceefc9c57ac73b7f.webp",
+      "sha256": "75219c2fceefc9c57ac73b7fb7c5b802eb95647a9f6b12e1e2eca46ef00e7e2d",
+      "bytes": 1200722,
+      "sourceSha256": "75219c2fceefc9c57ac73b7fb7c5b802eb95647a9f6b12e1e2eca46ef00e7e2d"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/5bf53b98d42b0b7b56ce19df.svg",
+      "sha256": "5bf53b98d42b0b7b56ce19df610f0bbd19c1f60e758ae84835dd725c46ec17ad",
+      "bytes": 337788,
+      "sourceSha256": "6594a25ba13b1946c0520e51112dffdb7bc5e8ab534d02ef51045913c25df131"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/d4698f31be4baf00fc46259d.webp",
+      "sha256": "d4698f31be4baf00fc46259d7c0f322393fcd8eda6fff6df32b41e375b4262ae",
+      "bytes": 30702,
+      "sourceSha256": "d4698f31be4baf00fc46259d7c0f322393fcd8eda6fff6df32b41e375b4262ae"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/fbf1911fe540bc8e7a93c839.webp",
+      "sha256": "fbf1911fe540bc8e7a93c83915436dc84c945b9b3713f903e7ecfa3b82bcb0e3",
+      "bytes": 1588274,
+      "sourceSha256": "fbf1911fe540bc8e7a93c83915436dc84c945b9b3713f903e7ecfa3b82bcb0e3"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/cddf8087c4e2c40597f5c425.svg",
+      "sha256": "cddf8087c4e2c40597f5c42576f5ec2e4b931d1ee0385bc703fb06c26cf63a39",
+      "bytes": 3440181,
+      "sourceSha256": "40015bfbbf2d512440c4c0044de48c8a165492f09642b2bdfb8fe5b9f6858b28"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/9a78e1cbbe488b522def47b2.webp",
+      "sha256": "9a78e1cbbe488b522def47b23af3c4515ff9d8f258084adacfc1854efd7ec2ca",
+      "bytes": 17490,
+      "sourceSha256": "9a78e1cbbe488b522def47b23af3c4515ff9d8f258084adacfc1854efd7ec2ca"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/ca87490447e4dfcdf5109895.webp",
+      "sha256": "ca87490447e4dfcdf51098955647745e30b42630fea6b7adf77fc9e7d387717a",
+      "bytes": 15248,
+      "sourceSha256": "ca87490447e4dfcdf51098955647745e30b42630fea6b7adf77fc9e7d387717a"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/89482e4e2928459a4b081f22.webp",
+      "sha256": "89482e4e2928459a4b081f22376fe165399e94e03dcab0d9b41ea31ee5df4bd0",
+      "bytes": 1847302,
+      "sourceSha256": "89482e4e2928459a4b081f22376fe165399e94e03dcab0d9b41ea31ee5df4bd0"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/e155411bec1b4d720bc2a1f7.svg",
+      "sha256": "e155411bec1b4d720bc2a1f789d72e90af00a25a69012809d9088d4dcbe59268",
+      "bytes": 3438477,
+      "sourceSha256": "dcf2b58ece367e1bc81bfdc2d1af864b792b16371ccf692b7f1dcc99f6a2e85c"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/f9ec69048bafc08fcc8eaccb.webp",
+      "sha256": "f9ec69048bafc08fcc8eaccb8c7f8a3ed82724cb3bd82ed5f68da398cca1af87",
+      "bytes": 31766,
+      "sourceSha256": "f9ec69048bafc08fcc8eaccb8c7f8a3ed82724cb3bd82ed5f68da398cca1af87"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/1058c0c9382813f7c9f0f6b3.webp",
+      "sha256": "1058c0c9382813f7c9f0f6b3f1cdaa0d9845ca3b441787d5f67487b43ea6bace",
+      "bytes": 28052,
+      "sourceSha256": "1058c0c9382813f7c9f0f6b3f1cdaa0d9845ca3b441787d5f67487b43ea6bace"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/d9154becb9f6a8970efa078d.webp",
+      "sha256": "d9154becb9f6a8970efa078d878768d2d678cd5adefd124bf48cbb32c2d69b69",
+      "bytes": 2019394,
+      "sourceSha256": "d9154becb9f6a8970efa078d878768d2d678cd5adefd124bf48cbb32c2d69b69"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/a52d788befc311c4b5bcf159.svg",
+      "sha256": "a52d788befc311c4b5bcf1597f7e38e71ea1a91a459f1daabdbc1b89596ab67d",
+      "bytes": 3407960,
+      "sourceSha256": "719c571539331f102a7d66933e2fd9404ebdb7fa9ddfa6846b21cd2d64ae5d24"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/a1bb0763766532fba3502734.webp",
+      "sha256": "a1bb0763766532fba3502734507e10b8b1b56acee46306d73ec0f064825e0c87",
+      "bytes": 31774,
+      "sourceSha256": "a1bb0763766532fba3502734507e10b8b1b56acee46306d73ec0f064825e0c87"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/989be092ab92a1dc67af5b9e.webp",
+      "sha256": "989be092ab92a1dc67af5b9e592b77606e22a6a64198b0a342004bec20ffc3b3",
+      "bytes": 19260,
+      "sourceSha256": "989be092ab92a1dc67af5b9e592b77606e22a6a64198b0a342004bec20ffc3b3"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/a0f4725f7c140d2188b24d85.webp",
+      "sha256": "a0f4725f7c140d2188b24d85a25baf7e9b60c89d36de139a34e62dad16f80d7e",
+      "bytes": 3061088,
+      "sourceSha256": "a0f4725f7c140d2188b24d85a25baf7e9b60c89d36de139a34e62dad16f80d7e"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/4a671837339724d70a5e9473.svg",
+      "sha256": "4a671837339724d70a5e9473f785d78c455f556bbad9f97b479d5c01d3256436",
+      "bytes": 836176,
+      "sourceSha256": "de77e2f0c4e1cdb62c8567fc7c3c1892d5e646882d94f4cfe81078491b8c7209"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/b4d61a0a35cf7c6d5cc5a8d7.webp",
+      "sha256": "b4d61a0a35cf7c6d5cc5a8d7679784e97a8dce32b9523b095f7f557249a759a6",
+      "bytes": 41134,
+      "sourceSha256": "b4d61a0a35cf7c6d5cc5a8d7679784e97a8dce32b9523b095f7f557249a759a6"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/f6a2e09963ebc3734728f8b1.webp",
+      "sha256": "f6a2e09963ebc3734728f8b16436cdf6db8fa687bc7d77aa888dcb59a393e6bb",
+      "bytes": 3222614,
+      "sourceSha256": "f6a2e09963ebc3734728f8b16436cdf6db8fa687bc7d77aa888dcb59a393e6bb"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/d42f148c6d84c746ccb1f291.svg",
+      "sha256": "d42f148c6d84c746ccb1f291e45d79845d41808119e74ef0a35a9dbad4f6e4c9",
+      "bytes": 851227,
+      "sourceSha256": "02c74aee488c01210fdd85f2fde11367beb86c42e3a2aeb82f1861633a369485"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/4e12f51af9331a5c3161efb0.webp",
+      "sha256": "4e12f51af9331a5c3161efb063cc59463cc24351bcfeae7c51b5df9490b1c457",
+      "bytes": 63844,
+      "sourceSha256": "4e12f51af9331a5c3161efb063cc59463cc24351bcfeae7c51b5df9490b1c457"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/f77d218b668dd1bf93102f57.webp",
+      "sha256": "f77d218b668dd1bf93102f57dd9d2efb7397425834441e47a778b047dbbe4169",
+      "bytes": 2107014,
+      "sourceSha256": "f77d218b668dd1bf93102f57dd9d2efb7397425834441e47a778b047dbbe4169"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/b7991b0025fdf0a09313f26e.svg",
+      "sha256": "b7991b0025fdf0a09313f26e5807c483a19f3407cbc291d912a42de2d85346dd",
+      "bytes": 2126649,
+      "sourceSha256": "89f128b280b5391001b63bbff6de86e561ba97bef01782a0a46e6e2d833ad279"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/5be577876c053b1f2fa78409.webp",
+      "sha256": "5be577876c053b1f2fa784095ce66ce951a6d75af25881a5cbb1fb0640551778",
+      "bytes": 51496,
+      "sourceSha256": "5be577876c053b1f2fa784095ce66ce951a6d75af25881a5cbb1fb0640551778"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/cdf4f5219f61a4fb0777daa4.webp",
+      "sha256": "cdf4f5219f61a4fb0777daa474ac1ec57dbf69d556658a84e88a3442cdc74f45",
+      "bytes": 2747136,
+      "sourceSha256": "cdf4f5219f61a4fb0777daa474ac1ec57dbf69d556658a84e88a3442cdc74f45"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/783538ba6fba4f3705a7cce7.svg",
+      "sha256": "783538ba6fba4f3705a7cce763df04adf3eeb5061ecafcc70c97bd744c86c41d",
+      "bytes": 6726188,
+      "sourceSha256": "f8db46b676926c1f6c59045ecadea4d7037fe7130d74d7b2ec8761f465187a3c"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/3c2b0e5cb232ceb074ec7740.webp",
+      "sha256": "3c2b0e5cb232ceb074ec7740aea3c00b00d3341d956b82664dd343a2e87577a0",
+      "bytes": 58174,
+      "sourceSha256": "3c2b0e5cb232ceb074ec7740aea3c00b00d3341d956b82664dd343a2e87577a0"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/212a678894c1ab742c0d3212.webp",
+      "sha256": "212a678894c1ab742c0d3212709332f58abe8506a84dce2890d28f7800954194",
+      "bytes": 2526748,
+      "sourceSha256": "212a678894c1ab742c0d3212709332f58abe8506a84dce2890d28f7800954194"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/177b429c3935b8c65636fc3c.svg",
+      "sha256": "177b429c3935b8c65636fc3c01d46a1765cfcffc4ad642db2e759a7e28275be3",
+      "bytes": 2487075,
+      "sourceSha256": "67b38244d885e49b9db986896a473bc85abfa93d1aafa3b9f993a5cb03d7c16a"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/fe812f57c4d6a8ff0e44d1ef.webp",
+      "sha256": "fe812f57c4d6a8ff0e44d1ef5a33e15b9e4230340950e8639a866d403e8807c4",
+      "bytes": 39160,
+      "sourceSha256": "fe812f57c4d6a8ff0e44d1ef5a33e15b9e4230340950e8639a866d403e8807c4"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/69161bd6e0e20067ed3643d8.webp",
+      "sha256": "69161bd6e0e20067ed3643d8ccff71a688819c601c7600c4a8d2415648dc6264",
+      "bytes": 28002,
+      "sourceSha256": "69161bd6e0e20067ed3643d8ccff71a688819c601c7600c4a8d2415648dc6264"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/c6689c23d1a88e1d72583564.webp",
+      "sha256": "c6689c23d1a88e1d72583564a5a6f6f2a8ed3e33e04c0ef0000625f679611899",
+      "bytes": 2246632,
+      "sourceSha256": "c6689c23d1a88e1d72583564a5a6f6f2a8ed3e33e04c0ef0000625f679611899"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/759ab31eb0ae09f93fd03aa1.svg",
+      "sha256": "759ab31eb0ae09f93fd03aa153a1ab7d8afb3fe8ae0713cab0c9fdf94c7f4c60",
+      "bytes": 19748407,
+      "sourceSha256": "3996c6be99b8c002c69926c324456b9b53bab3f9457d4876e8fbe6f66010d403"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/e3d8ff4546019b2f7a7c97f4.webp",
+      "sha256": "e3d8ff4546019b2f7a7c97f4e0455a7f83130ae4a11db6f395957020159d3291",
+      "bytes": 17158,
+      "sourceSha256": "e3d8ff4546019b2f7a7c97f4e0455a7f83130ae4a11db6f395957020159d3291"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/e5b1e35c6a40840291119786.webp",
+      "sha256": "e5b1e35c6a40840291119786f34872dce2ac1fbb0f91633e5e456ad3cc6efe52",
+      "bytes": 21398,
+      "sourceSha256": "e5b1e35c6a40840291119786f34872dce2ac1fbb0f91633e5e456ad3cc6efe52"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/0f7c3b13440efc75190cadd7.webp",
+      "sha256": "0f7c3b13440efc75190cadd7cb5b56b430b1d978fddc4a370f397c5bc3b5e5df",
+      "bytes": 1810654,
+      "sourceSha256": "0f7c3b13440efc75190cadd7cb5b56b430b1d978fddc4a370f397c5bc3b5e5df"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/7af743d80ec9b092750a6fbd.svg",
+      "sha256": "7af743d80ec9b092750a6fbd93142bb327ac50c70034d91dc873dff41cd96f40",
+      "bytes": 2826449,
+      "sourceSha256": "b22d68510914edccb2e8785a9b7dfd1d111c9af95125c3cdd7e03f6fdc29a72d"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/e94c579ddc9325abf04b6a40.webp",
+      "sha256": "e94c579ddc9325abf04b6a40e8370f911ea9027b2ca85abaf7dcc0f92d48d7af",
+      "bytes": 26246,
+      "sourceSha256": "e94c579ddc9325abf04b6a40e8370f911ea9027b2ca85abaf7dcc0f92d48d7af"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/9b52f7ba6b1cd84d1bbd3247.webp",
+      "sha256": "9b52f7ba6b1cd84d1bbd3247b4ca146352cd9b2c1f3a7e1936ce70ebbf358df4",
+      "bytes": 1277920,
+      "sourceSha256": "9b52f7ba6b1cd84d1bbd3247b4ca146352cd9b2c1f3a7e1936ce70ebbf358df4"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/3490a3ba13a78bdd87be2691.svg",
+      "sha256": "3490a3ba13a78bdd87be26917f0d705cdcee69abd27ab8b10592c32e49bda7c8",
+      "bytes": 2506578,
+      "sourceSha256": "7ffbec4912abc95e6b1b08a491de92f2db99f4617660364fd4c94a4f7a09657a"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/016be886c173024cf0f35a5f.webp",
+      "sha256": "016be886c173024cf0f35a5f8f45560e60fa644f108d5f743f20fc42cc03fd56",
+      "bytes": 24562,
+      "sourceSha256": "016be886c173024cf0f35a5f8f45560e60fa644f108d5f743f20fc42cc03fd56"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/2e8770f51dac0200094bd16a.webp",
+      "sha256": "2e8770f51dac0200094bd16ab81c6cd5c071f1d2e3034c41d24c1e82e4abac65",
+      "bytes": 28708,
+      "sourceSha256": "2e8770f51dac0200094bd16ab81c6cd5c071f1d2e3034c41d24c1e82e4abac65"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/7f2999226c6bb83fe812d8bf.webp",
+      "sha256": "7f2999226c6bb83fe812d8bf1cbf5565c4c7787da505f70634a17fce9dfe88e6",
+      "bytes": 3014720,
+      "sourceSha256": "7f2999226c6bb83fe812d8bf1cbf5565c4c7787da505f70634a17fce9dfe88e6"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/a0a351449aa7990a3cfffbfe.svg",
+      "sha256": "a0a351449aa7990a3cfffbfe86d757a9013a26809f6cbc34b16afdadaeff5aac",
+      "bytes": 972902,
+      "sourceSha256": "83c2198848bce7009ea1b3c36443a2b14f512c61651e75393da34cb9904b0897"
+    },
+    {
+      "path": "war-thunder/ground-maps/v1/3f8a5ab80d9ded0c4256bc07.webp",
+      "sha256": "3f8a5ab80d9ded0c4256bc07e823b823e622ca48abe26b43b1af2c2c9f6123e7",
+      "bytes": 45940,
+      "sourceSha256": "3f8a5ab80d9ded0c4256bc07e823b823e622ca48abe26b43b1af2c2c9f6123e7"
+    }
+  ]
+}
