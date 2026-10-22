@@ -6,7 +6,7 @@
 
 - 原始图片 SHA256：3d42c6da2ed372d151c18ab060d038cc0262a62f2213bdba97f36380d3f90544
 - 高清PNG：war-thunder/sales-calendar/v1/calendar-retypeset-58026e23754810a7.png
-- 无损WebP：war-thunder/sales-calendar/v1/calendar-retypeset-6e94089e483c1226.webp
+- 弹窗WebP（1700×1456，quality=86）：war-thunder/sales-calendar/v1/calendar-retypeset-5872b73a18a6d7b6.webp
 - 文字与表格源：工作台 data/sale-calendar-reference-layout.json
 - 源文件SHA256：1951ba9a21867760889beb988d824b72648913e74c52bd173a09183faba28933
 - 渲染脚本：工作台 scripts/render-sale-calendar-reference.py，Pillow==11.3.0
