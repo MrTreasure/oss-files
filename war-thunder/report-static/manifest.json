@@ -1,0 +1,325 @@
+{
+  "source": "Original War Thunder wallpaper and research-country flag assets; unchanged bytes. Rights belong to their owners. Static browser export inputs only; no player data or rendered reports.",
+  "assets": [
+    {
+      "kind": "background",
+      "id": "bg-f43b8ea30f",
+      "source": "https://staticfiles.warthunder.com/upload/image/0_Wallpaper_Renders/Ground_Forces/1920x1080_patria_bmp_3_logo_056f2963433ebf4ac1b945004888e57f.jpg",
+      "sha256": "d002b2177bedca205242f03577314ec5286e8f54a5880082b5b9d995071b07c9",
+      "bytes": 509972,
+      "path": "war-thunder/report-static/bg-f43b8ea30f-d002b2177bedca20.jpg"
+    },
+    {
+      "kind": "background",
+      "id": "bg-003afe534e",
+      "source": "https://staticfiles.warthunder.com/upload/image/0_Wallpaper_Renders/Other/1920x1080_sky_odyssey_logo_eng_a98e2d250b72a68a4c6073f0d30db010.jpg",
+      "sha256": "4ef2012f8a0f95ff9cf69f58388c93be625134757c82f5d299e460219d2ee07c",
+      "bytes": 614649,
+      "path": "war-thunder/report-static/bg-003afe534e-4ef2012f8a0f95ff.jpg"
+    },
+    {
+      "kind": "background",
+      "id": "bg-a3369979d1",
+      "source": "https://staticfiles.warthunder.com/upload/image/0_Wallpaper_Renders/Other/1920x1080_sky_odyssey_aw_159_logo_eng_0b76aeba7f0d6c03d48c576faa7af56a.jpg",
+      "sha256": "02bf0b8a521cc9b6866bc318117e216b5e807eff802b4d1dfdb776ce5410d4b4",
+      "bytes": 601399,
+      "path": "war-thunder/report-static/bg-a3369979d1-02bf0b8a521cc9b6.jpg"
+    },
+    {
+      "kind": "background",
+      "id": "bg-a52fd68397",
+      "source": "https://staticfiles.warthunder.com/upload/image/0_Wallpaper_Renders/Other/1920x1080_sky_odyssey_j16_logo_eng_0fbcfd8f9c34bf54000c5e6711410708.jpg",
+      "sha256": "28bbeb5ac3196452eec58c5e48c2ec8897833ba88f0f1578f138f5559d9c900d",
+      "bytes": 571999,
+      "path": "war-thunder/report-static/bg-a52fd68397-28bbeb5ac3196452.jpg"
+    },
+    {
+      "kind": "background",
+      "id": "bg-600cb93ef2",
+      "source": "https://staticfiles.warthunder.com/upload/image/0_Wallpaper_Renders/1920x1080_sky_odyssey_arjun_mk1_logo_eng_4b463db29bd527e1fe8e3c7fa0812663.jpg",
+      "sha256": "69b61edec558c9b01d1517972f52bd26c980588377de7625613efd93a8517618",
+      "bytes": 634285,
+      "path": "war-thunder/report-static/bg-600cb93ef2-69b61edec558c9b0.jpg"
+    },
+    {
+      "kind": "background",
+      "id": "bg-c3ce0aa55e",
+      "source": "https://staticfiles.warthunder.com/upload/image/0_Wallpaper_Renders/Aircraft/1920x1080_hawk_209_indonesia_logo_0fdbee1145346161ab0bde343e58409d.jpg",
+      "sha256": "1bcbdf768185705d5f5b2f22b839539a037d996faaec0d7c2d104974100fe2fd",
+      "bytes": 607114,
+      "path": "war-thunder/report-static/bg-c3ce0aa55e-1bcbdf768185705d.jpg"
+    },
+    {
+      "kind": "background",
+      "id": "bg-ed22579cab",
+      "source": "https://staticfiles.warthunder.com/upload/image/0_Wallpaper_Renders/Navy/1920x1080_battleship_oktyabrskaya_revolutsiya_logo_31c3d5361aa1c44b8cfcee6b8f3d9733.jpg",
+      "sha256": "c19c955be39764ca1e1bbcfffabfe8d8262824c04d5f787e7173cdce652ea91c",
+      "bytes": 514695,
+      "path": "war-thunder/report-static/bg-ed22579cab-c19c955be39764ca.jpg"
+    },
+    {
+      "kind": "background",
+      "id": "bg-eee20c3800",
+      "source": "https://staticfiles.warthunder.com/upload/image/0_Wallpaper_Renders/Ground_Forces/1920x1080_it_fiat_6616_ub_logo_3327a4c998d2f2f429a90eea190e3753.jpg",
+      "sha256": "f98cda0d3ba07aec3e6e014b1fa74d03ee641b54a828590b585edff2576d5394",
+      "bytes": 417575,
+      "path": "war-thunder/report-static/bg-eee20c3800-f98cda0d3ba07aec.jpg"
+    },
+    {
+      "kind": "background",
+      "id": "bg-cacb0c169c",
+      "source": "https://staticfiles.warthunder.com/upload/image/0_Wallpaper_Renders/Ground_Forces/1920x1080_scimitar_strike_logo_aa9d4dcedf930fc01a002d65f33131a5.jpg",
+      "sha256": "88e1e6730a0ca223cefb64c2f730893ee7a780e858bc2c732e8073c562538f8d",
+      "bytes": 469908,
+      "path": "war-thunder/report-static/bg-cacb0c169c-88e1e6730a0ca223.jpg"
+    },
+    {
+      "kind": "background",
+      "id": "bg-7d268eeb32",
+      "source": "https://staticfiles.warthunder.com/upload/image/0_Wallpaper_Renders/Other/1920x1080_heavy_cavalry_logo_eng_42204711432b0ddb79a5f30b72850fe0.jpg",
+      "sha256": "5ef88c7360dedb9dc0a689e4a7ccda9c12fd29c5585611d4d9dd1d014716aa10",
+      "bytes": 567028,
+      "path": "war-thunder/report-static/bg-7d268eeb32-5ef88c7360dedb9d.jpg"
+    },
+    {
+      "kind": "background",
+      "id": "bg-86e7dccdc2",
+      "source": "https://staticfiles.warthunder.com/upload/image/0_Wallpaper_Renders/Other/1920x1080_heavy_cavalry_yak130_m346_logo_eng_85a4367acf304ee8f2f7895affcaaff7.jpg",
+      "sha256": "f9cebcd7b2d78b16c5c3df0d5c413982b029858e81a44f4507ed17eff8d5f733",
+      "bytes": 726401,
+      "path": "war-thunder/report-static/bg-86e7dccdc2-f9cebcd7b2d78b16.jpg"
+    },
+    {
+      "kind": "background",
+      "id": "bg-ec1998f9a4",
+      "source": "https://staticfiles.warthunder.com/upload/image/0_Wallpaper_Renders/Other/1920x1080_heavy_cavalry_ia_58a_pucara_logo_eng_ce844054d0453e11239c6c35afae33ba.jpg",
+      "sha256": "45a090ea13e347aab6d5abe5c69d71d3bc5aa2ec2ceec39f1964b7e9523cbb15",
+      "bytes": 750295,
+      "path": "war-thunder/report-static/bg-ec1998f9a4-45a090ea13e347aa.jpg"
+    },
+    {
+      "kind": "background",
+      "id": "bg-a00089015e",
+      "source": "https://staticfiles.warthunder.com/upload/image/0_Wallpaper_Renders/Other/1920x1080_heavy_cavalry_hummel_logo_eng_1b67946313ed536aab6822822868c710.jpg",
+      "sha256": "8c294fbe3c8b77d98c5eca58b796da2ec3526ab00f8e056eb0749938364c9f43",
+      "bytes": 927343,
+      "path": "war-thunder/report-static/bg-a00089015e-8c294fbe3c8b77d9.jpg"
+    },
+    {
+      "kind": "background",
+      "id": "bg-1e8d1f7bf4",
+      "source": "https://staticfiles.warthunder.com/upload/image/0_Wallpaper_Renders/Aircraft/1920x1080_spitfire_lf_mk9c_cw_greece_logo_dc1ebf0983fbb16aa7b7fed086198fa8.jpg",
+      "sha256": "7b2da241f7507c27a1d48f3666932394dfbf0db042433d925e59f5ae4b1446af",
+      "bytes": 467253,
+      "path": "war-thunder/report-static/bg-1e8d1f7bf4-7b2da241f7507c27.jpg"
+    },
+    {
+      "kind": "background",
+      "id": "bg-2fa09ae8d9",
+      "source": "https://staticfiles.warthunder.com/upload/image/0_Wallpaper_Renders/Other/1920x1080_victory_day_2026_logo_602e1a54af7fac44271a481f0fb798ea.jpg",
+      "sha256": "558f57ea8fd0e641c2fa20ec74cb6ca48b4706398963e8368a582ab4c9d6dd6d",
+      "bytes": 797619,
+      "path": "war-thunder/report-static/bg-2fa09ae8d9-558f57ea8fd0e641.jpg"
+    },
+    {
+      "kind": "background",
+      "id": "bg-e30d62d3ad",
+      "source": "https://staticfiles.warthunder.com/upload/image/0_Wallpaper_Renders/Navy/1920x1080_ship_marathon_marine_gendarme_logo_df1ef5ea1e9bb608ee8877961a8a5c8c.jpg",
+      "sha256": "4adf4de6ef579c807a4141878663772daefeb554631adc4dca826252a10116d0",
+      "bytes": 727300,
+      "path": "war-thunder/report-static/bg-e30d62d3ad-4adf4de6ef579c80.jpg"
+    },
+    {
+      "kind": "background",
+      "id": "bg-c07b9f3ee1",
+      "source": "https://staticfiles.warthunder.com/upload/image/0_Wallpaper_Renders/1920x1080_ninth_wave_logo_eng_1ec685a725112eee99ae28dc8e9fb71b.jpg",
+      "sha256": "b3b5c5c4b7b7148938e633f3949a4c6c8208e8d3d18721b1130c5fe96216886f",
+      "bytes": 589901,
+      "path": "war-thunder/report-static/bg-c07b9f3ee1-b3b5c5c4b7b71489.jpg"
+    },
+    {
+      "kind": "background",
+      "id": "bg-fdaf2d6ef5",
+      "source": "https://staticfiles.warthunder.com/upload/image/0_Wallpaper_Renders/1920x1080_ninth_wave_hungarian_aircrafts_logo_eng_b575755f1fcaddf1be50f7a8ec9fbbaa.jpg",
+      "sha256": "1529c03ea9a4852686a79295e787623e6c63fb3bf42eda38a7d05f3374ea88b5",
+      "bytes": 502785,
+      "path": "war-thunder/report-static/bg-fdaf2d6ef5-1529c03ea9a48526.jpg"
+    },
+    {
+      "kind": "background",
+      "id": "bg-e4de4818c3",
+      "source": "https://staticfiles.warthunder.com/upload/image/0_Wallpaper_Renders/1920x1080_ninth_wave_armoured_fighting_vehicles_logo_eng_541b93d95ebfe68ee212d84d1115d7d7.jpg",
+      "sha256": "589455a2badae2166f554715f42c06bd0462ece6f65c99dbbba017561111b774",
+      "bytes": 1070734,
+      "path": "war-thunder/report-static/bg-e4de4818c3-589455a2badae216.jpg"
+    },
+    {
+      "kind": "background",
+      "id": "bg-5827d48a53",
+      "source": "https://staticfiles.warthunder.com/upload/image/0_Wallpaper_Renders/Navy/1920x1080_ship_marathon_uss_oklakhoma_logo_4e4c11df16c7d0b66b104ec8594ac778.jpg",
+      "sha256": "f980cd97b14eacbfd67ba6ab9e355f3705cceef7652889517fb7e886d47419d0",
+      "bytes": 603015,
+      "path": "war-thunder/report-static/bg-5827d48a53-f980cd97b14eacbf.jpg"
+    },
+    {
+      "kind": "background",
+      "id": "bg-df2bee539d",
+      "source": "https://staticfiles.warthunder.com/upload/image/0_Wallpaper_Renders/Aircraft/1920x1080_cf_188a_canada_logo_0932e0eccebda8911b7eefd830f874cf.jpg",
+      "sha256": "4ba2909a9f23703c2eab57d3ad04d2378cf8c13bf9de578977e98a75d51dd6fb",
+      "bytes": 457849,
+      "path": "war-thunder/report-static/bg-df2bee539d-4ba2909a9f23703c.jpg"
+    },
+    {
+      "kind": "background",
+      "id": "bg-61d030614a",
+      "source": "https://staticfiles.warthunder.com/upload/image/0_Wallpaper_Renders/Aircraft/1920x1080_aircraft_marathon_workhorse_logo_b7847b1ca7ad2c67625fd9559c71e6ce.jpg",
+      "sha256": "859ad4de9e37cd0d1982c3829a81a03985d0c559641c34a761b2be8a4847c3e5",
+      "bytes": 313759,
+      "path": "war-thunder/report-static/bg-61d030614a-859ad4de9e37cd0d.jpg"
+    },
+    {
+      "kind": "background",
+      "id": "bg-cb6d510e27",
+      "source": "https://staticfiles.warthunder.com/upload/image/0_Wallpaper_Renders/Ground_Forces/1920x1080_amx_elc_901_logo_a5b964e82699b453f3868a578a0f1806.jpg",
+      "sha256": "6117ca991d848395ae981c697dfbc87df16ac2ad571eea60251681987733b24a",
+      "bytes": 730756,
+      "path": "war-thunder/report-static/bg-cb6d510e27-6117ca991d848395.jpg"
+    },
+    {
+      "kind": "background",
+      "id": "bg-24b1f27bf7",
+      "source": "https://staticfiles.warthunder.com/upload/image/0_Wallpaper_Renders/Ground_Forces/1920x1080_event_t_72b3_arena_logo_f2dfe88cd0c49cd7adbeb026740f525c.jpg",
+      "sha256": "2c2684279f9bce8e31aaa942865cff50c0c4c2947a9223ab871c4e95d7694fb4",
+      "bytes": 508907,
+      "path": "war-thunder/report-static/bg-24b1f27bf7-2c2684279f9bce8e.jpg"
+    },
+    {
+      "kind": "background",
+      "id": "bg-175aab064f",
+      "source": "https://staticfiles.warthunder.com/upload/image/0_Wallpaper_Renders/1920x1080_line_of_contact_fa_18e_block_2_logo_eng_752362bafa0b4effbb6c57be6a50bc6d.jpg",
+      "sha256": "86337712dae683ec93baf995d4cc4e8c7a72f289d2f139d19d0a3b06a7db3991",
+      "bytes": 458869,
+      "path": "war-thunder/report-static/bg-175aab064f-86337712dae683ec.jpg"
+    },
+    {
+      "kind": "background",
+      "id": "bg-ab12a1689f",
+      "source": "https://staticfiles.warthunder.com/upload/image/0_Wallpaper_Renders/1920x1080_line_of_contact_mig_25pd_logo_eng_845b0172125e032169d8c292dbf8f041.jpg",
+      "sha256": "8f71d4bf9083a92ae75cb843bbcdd1e09447b49cddc4b2aa3a6f3f591f9dcd6f",
+      "bytes": 460173,
+      "path": "war-thunder/report-static/bg-ab12a1689f-8f71d4bf9083a92a.jpg"
+    },
+    {
+      "kind": "background",
+      "id": "bg-ca1fcedda5",
+      "source": "https://staticfiles.warthunder.com/upload/image/0_Wallpaper_Renders/1920x1080_line_of_contact_prince_wales_logo_eng_7eba58793c7f1fde72b8939b65996da3.jpg",
+      "sha256": "2de6ffcd3b1969d629fc2bfb90f39f1fff3c2481211a03f5159972561efe98cc",
+      "bytes": 978710,
+      "path": "war-thunder/report-static/bg-ca1fcedda5-2de6ffcd3b1969d6.jpg"
+    },
+    {
+      "kind": "background",
+      "id": "bg-2003e54ef5",
+      "source": "https://staticfiles.warthunder.com/upload/image/0_Wallpaper_Renders/1920x1080_line_of_contact_logo_eng_bc30d2bbb78da53162bf173bdf59047d.jpg",
+      "sha256": "764296efba84997201833a7513f1dc0845bbe0e35c81f0a74927c0832a7deb65",
+      "bytes": 1181299,
+      "path": "war-thunder/report-static/bg-2003e54ef5-764296efba849972.jpg"
+    },
+    {
+      "kind": "background",
+      "id": "bg-952bc2f501",
+      "source": "https://staticfiles.warthunder.com/upload/image/0_Wallpaper_Renders/Navy/1920x1080_event_205pe_k225_logo_592532112049b5195bea926fba22c02c.jpg",
+      "sha256": "198d0242e37bbd12ec9cae3323986365c93a6f841122a472acf23dc4041cc316",
+      "bytes": 654526,
+      "path": "war-thunder/report-static/bg-952bc2f501-198d0242e37bbd12.jpg"
+    },
+    {
+      "kind": "background",
+      "id": "bg-ec31d79628",
+      "source": "https://staticfiles.warthunder.com/upload/image/0_Wallpaper_Renders/1920x1080_spearhead_logo_eng_d6f9adcafc06be87916da90701a0c08c.jpg",
+      "sha256": "9cdd792be16259783bc3cb27212650d11bdbaf44ec224f152df9dd0e5c02ca62",
+      "bytes": 907396,
+      "path": "war-thunder/report-static/bg-ec31d79628-9cdd792be1625978.jpg"
+    },
+    {
+      "kind": "flag",
+      "id": "usa",
+      "source": "https://wiki.warthunder.com/static/country_svg/country_usa.svg",
+      "sha256": "2b4758da31016d0f9741bc16027f1488584496d9db6d1d96f9dea4abd28a0376",
+      "bytes": 5945,
+      "path": "war-thunder/report-static/usa-2b4758da31016d0f.svg"
+    },
+    {
+      "kind": "flag",
+      "id": "germany",
+      "source": "https://wiki.warthunder.com/static/country_svg/country_germany.svg",
+      "sha256": "b8879a7ecbeb73fb991e5f19f1bfed3d69fe618ceed2555dff3a957accc4a7da",
+      "bytes": 1150,
+      "path": "war-thunder/report-static/germany-b8879a7ecbeb73fb.svg"
+    },
+    {
+      "kind": "flag",
+      "id": "ussr",
+      "source": "https://wiki.warthunder.com/static/country_svg/country_ussr.svg",
+      "sha256": "376539bb8364c0f59d22e0b748219668a836fe65addd1b66ad109ae47bdc970d",
+      "bytes": 1346,
+      "path": "war-thunder/report-static/ussr-376539bb8364c0f5.svg"
+    },
+    {
+      "kind": "flag",
+      "id": "britain",
+      "source": "https://wiki.warthunder.com/static/country_svg/country_britain.svg",
+      "sha256": "025a52f65e742eb7a45a4cafd0edeb4b3a00089a7fee10105d5e55d9120ff6be",
+      "bytes": 884,
+      "path": "war-thunder/report-static/britain-025a52f65e742eb7.svg"
+    },
+    {
+      "kind": "flag",
+      "id": "japan",
+      "source": "https://wiki.warthunder.com/static/country_svg/country_japan.svg",
+      "sha256": "e2fff67ce883dcc15badd02d0e9796ba1a4343e94f4811cf86127c547708708f",
+      "bytes": 377,
+      "path": "war-thunder/report-static/japan-e2fff67ce883dcc1.svg"
+    },
+    {
+      "kind": "flag",
+      "id": "china",
+      "source": "https://wiki.warthunder.com/static/country_svg/country_china.svg",
+      "sha256": "99f16bb5710fffe88b4e331c4dd09e3a441722b957d022e291322a80e8a60069",
+      "bytes": 1028,
+      "path": "war-thunder/report-static/china-99f16bb5710fffe8.svg"
+    },
+    {
+      "kind": "flag",
+      "id": "italy",
+      "source": "https://wiki.warthunder.com/static/country_svg/country_italy.svg",
+      "sha256": "ca5c47c9f899f91ba053889bfd9f29015f586eb2a2045630a22bc1bed2d9d751",
+      "bytes": 509,
+      "path": "war-thunder/report-static/italy-ca5c47c9f899f91b.svg"
+    },
+    {
+      "kind": "flag",
+      "id": "france",
+      "source": "https://wiki.warthunder.com/static/country_svg/country_france.svg",
+      "sha256": "641fbc3f038789e2b37dbe576891b492a844934cf3f3cce188b0ccb8c8e3513e",
+      "bytes": 500,
+      "path": "war-thunder/report-static/france-641fbc3f038789e2.svg"
+    },
+    {
+      "kind": "flag",
+      "id": "sweden",
+      "source": "https://wiki.warthunder.com/static/country_svg/country_sweden.svg",
+      "sha256": "a297424887d659377cc4a1e7c93244ff3ba76ba49fda032731c35ce934d662b0",
+      "bytes": 446,
+      "path": "war-thunder/report-static/sweden-a297424887d65937.svg"
+    },
+    {
+      "kind": "flag",
+      "id": "israel",
+      "source": "https://wiki.warthunder.com/static/country_svg/country_israel.svg",
+      "sha256": "c369ddfc0cfe3c52e3a5328d97bea8b42599f480562b026a7e78bd8a8b7adf32",
+      "bytes": 754,
+      "path": "war-thunder/report-static/israel-c369ddfc0cfe3c52.svg"
+    }
+  ]
+}
